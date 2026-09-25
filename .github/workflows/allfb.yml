@@ -1,0 +1,45 @@
+name: Build AllFB Playlist
+
+on:
+  workflow_dispatch:        # cho phép chạy thủ công
+  schedule:
+    - cron: "0 * * * *"     # chạy mỗi giờ
+
+permissions:
+  contents: write           # cấp quyền ghi repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run allfb.py
+        run: python allfb.py
+
+      - name: Commit and push allfb.m3u
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add allfb.m3u
+          git commit -m "Update allfb.m3u" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload allfb.m3u artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: allfb-playlist
+          path: allfb.m3u
