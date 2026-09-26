@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6gwdeq86.png" group-title="Gavang",26/09 16:00 | Pakistan vs Thailand
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh613x3qg8.png" group-title="Gavang",26/09 16:00 | FK Chelyabinsk vs Yenisey Krasnoyarsk
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxp27gqo9.png" group-title="Gavang",26/09 19:00 | AD Ceuta vs Real Sociedad B
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4gdvvr8k.png" group-title="Gavang",26/09 19:30 | Vietnam vs Philippines
@@ -76,23 +72,15 @@ https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80" group-title="Football",2026-09-26 16:00 | Pakistan vs Thái Lan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74557132_c4235256eb28f2673d793dc748b7534b_autoChange.m3u8?auth_key=1790429938-0-0-25e1b97360a3d3fb983d2fbdeacdbbab
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80" group-title="Football",2026-09-26 15:00 | CLB Omiya Ardija vs CLB Ventforet | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72151172_345340fbd8de31a63e7a4303c64ff468_autoChange.m3u8?auth_key=1790429940-0-0-14a5995d3de7a9756d4862b3b39590c5
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Football",2026-09-26 14:30 | Mobis Phoebus vs LG Sakers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/m2q19srveejuek6_39178e3037684ddbe67c7e78ad338ae9_autoChange.m3u8?auth_key=1790429638-0-0-44d33394d4f68e924c490f4ee5b18619
+https://live1.dyrur1.com/live/74557132_c4235256eb28f2673d793dc748b7534b_autoChange.m3u8?auth_key=1790433535-0-0-af3377a9a57437f5e8fb8baceb3f93bc
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80" group-title="Football",2026-09-26 16:00 | FK Chelyabinsk vs Yenisey Krasnoyarsk | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72578240_948b207325b8e1876af7cb96ce79718f_autoChange.m3u8?auth_key=1790429938-0-0-38632438548d3160de7c5a8d2ebb0484
+https://live.dyrur1.com/live/72578240_948b207325b8e1876af7cb96ce79718f_autoChange.m3u8?auth_key=1790433535-0-0-3a60e929d0455e8afba6d0ede64f5941
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/0437356503a22e50b9e8aa76145c7f71.png!w80" group-title="Football",2026-09-26 17:30 | Nhật Bản U23 vs Triều Tiên U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/74999570_ee379448c1d8ac895ae9ec8f60076710_autoChange.m3u8?auth_key=1790433535-0-0-cfada1baed81c77d71bf426e9507a71d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80" group-title="Football",2026-09-26 18:30 | Nantong Zhiyun vs Changchun Yatai | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -487,7 +475,7 @@ https://cdnhls.xbdbotv.live/live/MTkzODU0NjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ
 https://cdnhls.xbdbotv.live/live/MTkzODU1MDk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOndyMHNhYWN3MzFkMXBsdWh1anZuZHM4Yg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slovenia-18630" group-title="Biaom TV" , 26-09-2026 20:00 ⚽ Slovenia vs Scotland [SCHEDULED] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzc6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmFjMDZzMXZjb3gwbnA4cGF3MWY3OTA1Mw/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" group-title="Biaom TV" , 26-09-2026 17:30 ⚽ Nhật Bản U23 vs Korea DPR U23 [SCHEDULED] (TRÚC BẠCH)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" group-title="Biaom TV" , 26-09-2026 17:30 ⚽ Nhật Bản U23 vs Korea DPR U23 [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4ODY1ODg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmZ2ZWUzMG0yb2Zvdjhsd2l2dmk0a291Zg/index.m3u8
 #EXTINF:-1 group-title="Source 4" tvg-logo="/media/teams/logos/team_599.jpg" group-title="Khán Đài TV",25/09 13:00 - China W vs Vietnam W
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
