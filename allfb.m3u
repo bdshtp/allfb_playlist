@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx90lmd7.png" group-title="Gavang",27/09 06:00 | Antigua and Barbuda vs Anguilla
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn9w8om0v.png" group-title="Gavang",27/09 07:30 | FC Dallas vs Los Angeles FC
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn9w8om0v.png" group-title="Gavang",27/09 07:40 | FC Dallas vs Los Angeles FC
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1gh9vk6emoe.png" group-title="Gavang",27/09 08:00 | Mexico vs Colombia
 https://live2.zktsva.app/live/303098.m3u8
@@ -35,34 +35,34 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz7opmoe.png" group-title="Gavang",27/09 23:30 | Eibar vs UD Las Palmas
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="Football",2026-09-27 05:50 | Cruz Azul vs Toluca | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72055202_259b02419bb1235a8e1b7f2ede447fb7_autoChange.m3u8?auth_key=1790480294-0-0-d2fad1dc20c1fbf8f9908526d45e975e
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/04f82a7b2f5afd90b0e0672f7cbbf2da.png!w80" group-title="Football",2026-09-27 06:00 | Antigua and Barbuda vs Anguilla | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/73220996_e29f37dd84e6255ff3e358a7351ef2f8_autoChange.m3u8?auth_key=1790480294-0-0-cf58441e884954e070962d00e5ee71f3
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80" group-title="Football",2026-09-27 06:07 | Chivas Guadalajara vs Queretaro | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72055196_8136a69737d30947bd6f600f2519155e_autoChange.m3u8?auth_key=1790480294-0-0-e040b9356e43ba6856592b84c0650a19
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80" group-title="Football",2026-09-27 06:30 | Charlotte FC vs CLB Chicago Fire | BLV 
+https://live.dyrur1.com/live/72055196_8136a69737d30947bd6f600f2519155e_autoChange.m3u8?auth_key=1790484075-0-0-6e2afa6c3bb7234ecf4d17f84c86be67
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/04f82a7b2f5afd90b0e0672f7cbbf2da.png!w80" group-title="Football",2026-09-27 06:00 | Antigua and Barbuda vs Anguilla | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/66299582_7c792f54be7dda9aa6804fecc6026917_autoChange.m3u8?auth_key=1790479668-0-0-55c39176140e2b86faaa0bc70bb9a6ef
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e829da6b3050ec03f3c8715690ec39c4.png!w80" group-title="Football",2026-09-27 07:30 | CLB Dallas vs Los Angeles FC | BLV 
+https://live3.dyrur1.com/live/73220996_e29f37dd84e6255ff3e358a7351ef2f8_autoChange.m3u8?auth_key=1790484074-0-0-4418e24abd39ee9087c7157aaa808cf1
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80" group-title="Football",2026-09-27 07:40 | Houston Dynamo vs Kansas City | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80" group-title="Football",2026-09-27 07:30 | Houston Dynamo vs Kansas City | BLV 
+https://live3.dyrur1.com/live/o07dni5v4x6bmkn_8ed439a9ab32999205833ec65cacc532_autoChange.m3u8?auth_key=1790484071-0-0-afa30969dabbf589b5444059492423e4
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80" group-title="Football",2026-09-27 06:40 | Charlotte FC vs CLB Chicago Fire | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" group-title="Football",2026-09-27 07:30 | CLB Nashville vs CLB Toronto | BLV 
+https://live.dyrur1.com/live/9gklzi1rj8wsm7x_946e65a5b498b5a2371a1ecf1ed5821a_autoChange.m3u8?auth_key=1790484076-0-0-90cfceeebb5b36db1cfa4f6561f0d023
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="Football",2026-09-27 05:50 | Cruz Azul vs Toluca | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/72055202_259b02419bb1235a8e1b7f2ede447fb7_autoChange.m3u8?auth_key=1790484074-0-0-b90bb465a9f1c40081e6c701d93e6613
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e829da6b3050ec03f3c8715690ec39c4.png!w80" group-title="Football",2026-09-27 07:40 | CLB Dallas vs Los Angeles FC | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/63kv9igr51zfx7e_11556ca8ce841db70a4ad8691bc42631_autoChange.m3u8?auth_key=1790484076-0-0-915f8de3800068d681f67462fc6ced51
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" group-title="Football",2026-09-27 07:40 | CLB Nashville vs CLB Toronto | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/66299596_62bf5c364489c5acbad3daf80d192b3e_autoChange.m3u8?auth_key=1790484076-0-0-82876d0f3a7285c35fe7e77fac0bd5ac
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="Football",2026-09-27 08:00 | Mexico vs Colombia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -75,22 +75,18 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="Football",2026-09-27 09:30 | San Jose Earthquakes vs Portland Timbers | BLV BLV MONSTER
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Football",2026-09-27 09:30 | CLB LA Galaxy vs Colorado Rapids | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Football",2026-09-27 09:30 | CLB LA Galaxy vs Colorado Rapids | BLV BLV MONSTER
+https
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2552214027525015c3545cff636f5e03.png!w80" group-title="Football",2026-09-27 10:05 | Santos Laguna vs Pachuca | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2552214027525015c3545cff636f5e03.png!w80" group-title="Football",2026-09-27 10:05 | Santos Laguna vs Pachuca | BLV BLV MOUNTAIN DEW
+https
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80" group-title="Football",2026-09-27 10:10 | Tigres vs CLB Puebla | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80" group-title="Football",2026-09-27 10:10 | Tigres vs CLB Puebla | BLV BLV SPRITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75748097_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/9adc8e5768f7787b81ad366fed7b5edd.png!w80" group-title="Football",2026-09-27 12:00 | Seoul Samsung Thunders vs Anyang KGC | BLV BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -99,10 +95,10 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Football",2026-09-27 13:00 | Adelaide 36ers vs Cairns Taipans | BLV BLV Cozy
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Football",2026-09-27 13:00 | Adelaide 36ers vs Cairns Taipans | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87379114_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/df321578b4f5f132345d2e6b39743126.png!w80" group-title="Football",2026-09-27 14:00 | Hồng Kông vs Lào | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
