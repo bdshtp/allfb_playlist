@@ -3,12 +3,12 @@
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn4gw1qvy.png" group-title="Gavang",29/09 01:45 | Turkiye vs Italy
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngy5nm0v.png" group-title="Gavang",29/09 01:45 | Sweden vs Poland
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg3vd6q82.png" group-title="Gavang",29/09 01:45 | Northern Ireland vs Hungary
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9nod4m7v.png" group-title="Gavang",29/09 01:45 | Romania vs Bosnia and Herzegovina
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghngy5nm0v.png" group-title="Gavang",29/09 01:45 | Sweden vs Poland
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5lojgql0.png" group-title="Gavang",29/09 07:00 | Saint Kitts and Nevis vs Grenada
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey1j9r6o.png" group-title="Gavang",29/09 07:00 | Jamaica vs Honduras
@@ -83,46 +83,34 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh8l4vvr1g.png" group-title="Gavang",30/09 23:45 | Paris FC Women vs Arsenal Women
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80" group-title="Football",2026-09-28 23:00 | Georgia vs Ukraine | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68932754_e8e44c8a6ee937d35caf772c2d1e1130_autoChange.m3u8?auth_key=1790631679-0-0-05326e97c29acb1ad685307d8a672b91
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="Football",2026-09-28 23:00 | Latvia vs Đảo Síp | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/68932412_7abfa0d25b245857934fbb0cf3b00625_autoChange.m3u8?auth_key=1790631679-0-0-d43ab4f2d0e6e8957dbf5c3ccdec72fd
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png!w80" group-title="Football",2026-09-28 23:00 | CLB Armenia vs Montenegro | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/68932410_563d741e0004e45932efdfd9dd6f6d39_autoChange.m3u8?auth_key=1790631679-0-0-c5ea77ed7cdefb27478f1f6127bbaf37
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80" group-title="Football",2026-09-29 01:30 | CLB Leganes vs Castellon | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" group-title="Football",2026-09-29 01:45 | Bỉ vs Pháp | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live4.dyrur1.com/live/13596779_16a4f9bf1470b1a0ba1ff957a536c068_autoChange.m3u8?auth_key=1790635479-0-0-8d2ac86fd7ff2e4fb15e7d219a98257b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="Football",2026-09-29 01:45 | Thổ nhĩ kỳ vs ĐTQG Ý | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" group-title="Football",2026-09-29 01:45 | ĐTQG Bắc Ireland vs ĐTQG Hungary | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/13596740_27b04426af98719ee53b2807fa2673c7_autoChange.m3u8?auth_key=1790635479-0-0-3a2b5ecfe54d96904da625bff2582b96
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" group-title="Football",2026-09-29 01:45 | Thụy Điển vs ĐTQG Ba Lan | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/13591607_4b8628719e27e4fbf73435ccf2e8c553_autoChange.m3u8?auth_key=1790635479-0-0-3ab9511ea4928dd11e22159c10a103b6
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" group-title="Football",2026-09-29 01:45 | ĐTQG Bắc Ireland vs ĐTQG Hungary | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/13591605_49c0bf53bba28f90d116e6a3c1356405_autoChange.m3u8?auth_key=1790635479-0-0-c36a25c99bede46ea4ddcb8ae821adb1
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" group-title="Football",2026-09-29 01:45 | CLB Romania vs ĐTQG Bosnia Herzegovina | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/68932614_69c83bc7934ae619e6d739486e68f3cc_autoChange.m3u8?auth_key=1790635479-0-0-90a37712e7ef0f8dbed7469689fbc32d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/184cb48a11bd10712686ebd5611812af.png!w80" group-title="Football",2026-09-29 02:00 | Botswana vs Tunisia | BLV BLV WARRIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/97885009_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80" group-title="Football",2026-09-29 01:30 | CLB Leganes vs Castellon | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_autoChange.m3u8?auth_key=1790635514-0-0-613e7cb1309f411e13af6fa8c1a16341
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/19406b9f645610fda9a0f6f27bdac710.png!w80" group-title="Football",2026-09-29 04:00 | Cuba vs Bonaire | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -375,14 +363,6 @@ https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Latvia vs Síp [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnc3NnVuY2V3MjRvaXQ4cG53MXhqdHUyNg/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Latvia vs Síp [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmF0MHd4eGdvN3dyNjRubjV4ZGcwem5tMA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Armenia vs Montenegro [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODM6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRvNWQxeW91dGx1MGtvcWxwNmIwMDI1cQ/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-18692" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Georgia vs Ukraine [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3MzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmd5OTByMnVzdWQyajB6NDI0OGVjMXhicw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-u21-60072" group-title="Đang phát" , 28-09-2026 23:30 ⚽ Đan Mạch U21 vs Belarus U21 [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTkzODU1Mjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9tMDRwdmc0cjJwZWp2emtqcDFmbHZpZQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Bỉ vs Pháp [LIVE] (Vịt Nướng)
@@ -399,12 +379,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZ
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnY0bDc3cjRkcGtjcWRpd214ZGhzOGt2aQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/cb95ef66-9ebf-4f5b-8383-91d59ef053ae" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Zimbabwe vs CHDC Congo (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/zim-cod-afcon/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/72e46c35-e89f-4f3d-8c31-0d7e4716d602" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Georgia vs Ukraine (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/geo-ukr-uefanl/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/11f53b2a-3c94-48a6-acd8-973549e20394" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Armenia vs Montenegro (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/arm-mon-uefanl/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/c9841036-8abf-4b89-8904-438b3c48065f" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Latvia vs Cyprus (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/lat-cyp-uefanl/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/28691872-b4d4-4ebc-8dfc-933559765685" group-title="Sắp diễn ra" , 29-09-2026 08:30 ⚽ CD Leganes vs Castellon (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/legan-caste-spa2nd/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="Sắp diễn ra" , 29-09-2026 08:45 ⚽ Belgium vs France (NGƯỜI CAT)
@@ -447,21 +421,21 @@ https://cdnhls.xbdbotv.live/live/MTkzODUzNzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnJ
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm90d3pjNHpqeGIzZ3NxdXl3bXdibnljYg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/moldova-18778" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Moldova vs Quần đảo Faroe [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3Nzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnk5dXF6dGxha2Y3bXhhenF4ZGJzc2s4aw/index.m3u8
-# Generated at 2026-09-28 18:05:51
+# Generated at 2026-09-28 19:06:00
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Northern Ireland vs Hungary" tvg-logo="https://www.khandai1.link/media/teams/logos/team_682.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Northern Ireland vs Hungary | [Pháo Thủ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Northern Ireland vs Hungary" tvg-logo="https://www.khandai1.link/media/teams/logos/team_682.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Northern Ireland vs Hungary (0-0) | [Pháo Thủ]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Romania vs Bosnia & Herzegovina" tvg-logo="https://www.khandai1.link/media/teams/logos/team_702.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Romania vs Bosnia & Herzegovina | [Kền Kền]
+#EXTINF:-1 group-title="Source 4" tvg-name="Romania vs Bosnia & Herzegovina" tvg-logo="https://www.khandai1.link/media/teams/logos/team_702.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Romania vs Bosnia & Herzegovina (0-2) | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Sweden vs Poland" tvg-logo="https://www.khandai1.link/media/teams/logos/team_17.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Sweden vs Poland | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="Sweden vs Poland" tvg-logo="https://www.khandai1.link/media/teams/logos/team_17.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Sweden vs Poland (1-0) | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Belgium vs France" tvg-logo="https://www.khandai1.link/media/teams/logos/team_6.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Belgium vs France | [Lee Sin]
+#EXTINF:-1 group-title="Source 4" tvg-name="Belgium vs France" tvg-logo="https://www.khandai1.link/media/teams/logos/team_6.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Belgium vs France (0-0) | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Turkey vs Italy" tvg-logo="https://www.khandai1.link/media/teams/logos/team_1.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Turkey vs Italy | [Chim Nhỏ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Turkey vs Italy" tvg-logo="https://www.khandai1.link/media/teams/logos/team_1.jpg" group-title="Bóng đá | UEFA Nations League",29/09 01:45 | Turkey vs Italy (0-1) | [Chim Nhỏ]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Hong Kong vs Việt Nam" tvg-logo="https://www.khandai1.link/media/teams/logos/Flag_of_Hong_Kong_ShTrNhs.svg.webp" group-title="Bóng chuyền | ASIAD GAME",29/09 08:00 | Hong Kong vs Việt Nam | [KaKa]
