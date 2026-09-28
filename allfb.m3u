@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyw3g9ryk.png" group-title="Gavang",28/09 08:00 | Club Leon vs FC Juarez
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnepwyqdy.png" group-title="Gavang",28/09 10:10 | Necaxa vs Club America
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl8pj2q1z.png" group-title="Gavang",28/09 16:00 | Singapore vs Bangladesh
@@ -67,22 +65,10 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz2z0q86.png" group-title="Gavang",29/09 23:00 | Russia vs IR Iran
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/4695f653aca6ac49ff2baa4a961fa67b.png!w80" group-title="Football",2026-09-28 08:00 | Club Leon vs Juarez | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72055206_02e1c484170baae0399274097c0e75be_autoChange.m3u8?auth_key=1790577716-0-0-223acf263d9bd7ae3eebe4bbc07c319a
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" group-title="Football",2026-09-28 08:00 | Trinidad & Tobago vs Cộng hòa Dominican | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73220752_4271feea0689706f585e1739d8a9ef97_autoChange.m3u8?auth_key=1790577716-0-0-38f0b7d87aacfa84cd5da7eaee4417a2
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-09-28 08:00 | Golden State Valkyries vs Dallas Wings | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/l6kersmog4gavq5_0fdb4e2baac8d2e9471def66a344684c_autoChange.m3u8?auth_key=1790577716-0-0-5a7e81ec1224436b3856fb0dc35295a4
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="Football",2026-09-28 10:10 | Necaxa vs Club America | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72055208_143f20ba8e6adf6365379f7edc192f35_autoChange.m3u8?auth_key=1790581410-0-0-d5725276eadd095034745168cebff65e
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80" group-title="Football",2026-09-28 16:00 | Singapore vs Đội tuyển quốc gia Bangladesh | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -279,11 +265,7 @@ https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/e299c8ba-13ea-4e19-a2c9-2e5a92f0ef66" group-title="Sắp diễn ra" , 28-09-2026 13:00 ⚽ Columbus Crew vs Inter Miami CF (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/columbus-miami-mls/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Sắp diễn ra" , 28-09-2026 13:05 ⚽ Fortaleza F.C vs Deportes Tolima (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/forta-tolima-cate/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Sắp diễn ra" , 28-09-2026 15:00 ⚽ Club Leon Women vs FC Juarez Women (NGƯỜI NẶN)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Sắp diễn ra" , 28-09-2026 15:00 ⚽ Club Leon vs FC Juarez (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/leonw-juarezw-mexligaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 28-09-2026 17:10 ⚽ Necaxa Women vs Club America (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/neca-camer-mexliga/index.m3u8
@@ -345,17 +327,15 @@ https://hls.lauthaitv.cc/live/rom-bih-uefanl/index.m3u8
 https://hls.lauthaitv.cc/live/bot-tun-afcon/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/5288b1d6-9e78-4223-8223-429f6a522696" group-title="Sắp diễn ra" , 29-09-2026 11:00 ⚽ Cuba vs Bonaire (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/cub-bon-concacafnl/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Sắp diễn ra" , 29-09-2026 13:00 ⚽ Club Leon Women vs Club America Women (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/leonw-americaw-mexligaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="Sắp diễn ra" , 29-09-2026 14:00 ⚽ Jamaica vs Honduras (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/jam-hon-concacafnl/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 29-09-2026 15:06 ⚽ Necaxa Women vs Toluca Women (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/necaw-toluw-mexligaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/14fd4734-359a-433a-affb-00a8845720e0" group-title="Sắp diễn ra" , 29-09-2026 16:00 ⚽ Guatemala vs El Salvador (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/gua-sal-concacafnl/index.m3u8
-# Generated at 2026-09-28 03:05:44
+# Generated at 2026-09-28 04:05:37
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Trung Quốc vs Philippines" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_OOrZwnR.jpg" group-title="Bóng chuyền | ASIAD GAME",28/09 11:00 | Trung Quốc vs Philippines | [KaKa]
+#EXTINF:-1 group-title="Source 4" tvg-name="Trung Quốc vs Philippines" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_OOrZwnR.jpg" group-title="Bóng chuyền | ASIAD GAME",28/09 11:00 | Trung Quốc vs Philippines (0-0) | [KaKa]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Thái Lan vs Iran" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="Bóng chuyền | ASIAD GAME",28/09 14:00 | Thái Lan vs Iran | [Lee Sin]
