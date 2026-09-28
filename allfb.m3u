@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h148w1q0j.png" group-title="Gavang",28/09 06:00 | Columbus Crew vs Inter Miami CF
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhglkyprep.png" group-title="Gavang",28/09 06:00 | Haiti vs Costa Rica
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h148w1q0j.png" group-title="Gavang",28/09 06:10 | Columbus Crew vs Inter Miami CF
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyw3g9ryk.png" group-title="Gavang",28/09 08:00 | Club Leon vs FC Juarez
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyd4jvryk.png" group-title="Gavang",28/09 08:00 | Trinidad and Tobago vs Dominican Republic
@@ -73,26 +73,22 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4hyz2z0q86.png" group-title="Gavang",29/09 23:00 | Russia vs IR Iran
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png!w80" group-title="Football",2026-09-28 04:00 | Gimnasia y Tiro vs CLB Atletico Rafaela | BLV BLV AQUA
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" group-title="Football",2026-09-28 06:10 | CLB Columbus Crew vs Inter Miami | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80" group-title="Football",2026-09-28 06:00 | CLB Columbus Crew vs Inter Miami | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-09-28 06:00 | Atlanta Dream vs Washington Mystics | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/66299608_7561acbb502df4fbf2baac1f3fdfe01e_autoChange.m3u8?auth_key=1790566702-0-0-d818420044b6be88984334a23320a4e0
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="Football",2026-09-28 06:00 | Haiti vs Costa Rica | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="Football",2026-09-28 07:00 | Curacao vs Nicaragua | BLV BLV 7UP
+https://live4.dyrur1.com/live/73220748_30468bbb45bc9b0a1c1cf023fd970837_autoChange.m3u8?auth_key=1790566702-0-0-4aac6bfc8819f599f2976bb0303b9fed
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-09-28 06:00 | Atlanta Dream vs Washington Mystics | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/78905744_tsc.m3u8
+https://live.dyrur1.com/live/75042852_60949072139a56ef5be5d22db33235c3_autoChange.m3u8?auth_key=1790566702-0-0-64cf016d7f6b6e655a3190b23d8c33e5
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="Football",2026-09-28 07:00 | Curacao vs Nicaragua | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="Football",2026-09-28 07:00 | Dominica vs Puerto Rico | BLV BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -309,8 +305,6 @@ https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/40eafaa4-36a5-4968-b342-dcedd9cb9b85" group-title="Sắp diễn ra" , 28-09-2026 11:00 ⚽ Jaguares de Cordoba vs Alianza Fútbol Club (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/cordo-alian-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/e299c8ba-13ea-4e19-a2c9-2e5a92f0ef66" group-title="Sắp diễn ra" , 28-09-2026 13:00 ⚽ Columbus Crew vs Inter Miami CF (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/columbus-miami-mls/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/3dd252ab-2acb-4cb8-bc3e-ae0967e391e1" group-title="Sắp diễn ra" , 28-09-2026 13:00 ⚽ Haiti vs Costa Rica (NGƯỜI SÓI)
@@ -387,9 +381,9 @@ https://hls.lauthaitv.cc/live/jam-hon-concacafnl/index.m3u8
 https://hls.lauthaitv.cc/live/necaw-toluw-mexligaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/14fd4734-359a-433a-affb-00a8845720e0" group-title="Sắp diễn ra" , 29-09-2026 16:00 ⚽ Guatemala vs El Salvador (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/gua-sal-concacafnl/index.m3u8
-# Generated at 2026-09-27 23:04:28
+# Generated at 2026-09-28 00:06:52
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="https://www.khandai1.link/media/teams/logos/team_306.jpg" group-title="Bóng đá | MLS",28/09 06:00 | Columbus Crew vs Inter Miami (0-0) | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="Columbus Crew vs Inter Miami" tvg-logo="https://www.khandai1.link/media/teams/logos/team_306.jpg" group-title="Bóng đá | MLS",28/09 06:00 | Columbus Crew vs Inter Miami | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Ấn Độ vs Hong Kong" tvg-logo="https://www.khandai1.link/media/teams/logos/Flag_of_India.svg.webp" group-title="Bóng chuyền | ASIAD GAME",28/09 08:00 | Ấn Độ vs Hong Kong | [Tiểu Mây]
