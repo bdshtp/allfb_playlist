@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergphk0y0yr8k.png" group-title="Gavang",30/09 07:00 | USA vs Chile
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h54940rz8.png" group-title="Gavang",30/09 08:00 | Mexico vs Peru
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnl2owm0v.png" group-title="Gavang",30/09 09:00 | Belize vs Saint Vincent and the Grenadines
@@ -63,22 +61,14 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8z0elqo9.png" group-title="Gavang",01/10 23:45 | Austria Wien Women vs Inter Milan Women
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="Football",2026-09-30 07:00 | Mỹ vs Chilê | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73600390_6596552c693163caa1f8d33489a0c876_autoChange.m3u8?auth_key=1790746931-0-0-fadc2db477d4dade79541d230d7b835f
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="Football",2026-09-30 08:00 | Mexico vs Peru | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73685558_afb552a110027b23af6d70cf7f233bf1_autoChange.m3u8?auth_key=1790746931-0-0-395a89b219cbd778fb678cf74672d60c
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="Football",2026-09-30 07:30 | New York Liberty vs Minnesota Lynx | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75047612_6bb8f12fe9acadba4f39056a8e85e2e1_autoChange.m3u8?auth_key=1790746931-0-0-ad570106a652d8b7a08fe255b7b23a57
+https://live.dyrur1.com/live/73685558_afb552a110027b23af6d70cf7f233bf1_autoChange.m3u8?auth_key=1790750533-0-0-af5bf123a968336d31e3a0f0e4cd0f8b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/cc43cae8b2c9735749cb067be62f9311.png!w80" group-title="Football",2026-09-30 09:00 | Belize vs Thánh Vincent Grenadines | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73220908_4ca38480da9f66baa0fc87c97e2c71ab_autoChange.m3u8?auth_key=1790750533-0-0-78beb293642565e08d3490d49b808fed
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-09-30 13:00 | Hàn Quốc U23 vs Trung Quốc U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -301,7 +291,7 @@ https://hls.lauthaitv.cc/live/pan-nzl-jpnkirin/index.m3u8
 https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
-# Generated at 2026-09-30 02:05:22
+# Generated at 2026-09-30 03:05:16
 
 #EXTINF:-1 group-title="Source 4" tvg-name="South Korea U23 vs China U23" tvg-logo="https://www.khandai1.link/media/teams/logos/images_8kF19fZ.jpg" group-title="Bóng đá | Asian Games",30/09 13:00 | South Korea U23 vs China U23 | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
