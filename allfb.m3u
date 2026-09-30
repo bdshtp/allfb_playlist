@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw1l9zryo.png" group-title="Gavang",30/09 21:00 | Aktobe W vs Ajax Amsterdam Women
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnv0jwqvy.png" group-title="Gavang",30/09 23:00 | Eritrea vs South Africa
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh8l573r1g.png" group-title="Gavang",30/09 23:00 | Lithuania vs Andorra
@@ -52,7 +50,7 @@ https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/6a361dfa300bb39d857d5e6264788ccf.png!w80" group-title="Football",2026-09-30 21:00 | Aktobe W vs Ajax Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74351880_288f038e560fe3178f65d6484367da69_autoChange.m3u8?auth_key=1790793983-0-0-d1d9731648b972ac712652eac5269c5e
+https://live.dyrur1.com/live/74351880_288f038e560fe3178f65d6484367da69_autoChange.m3u8?auth_key=1790795520-0-0-11b27f31e86e6fce066e3aefbc697391
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80" group-title="Football",2026-09-30 23:00 | ĐTQG Lithuania vs Andorra | BLV BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -93,10 +91,10 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80" group-title="Football",2026-10-01 03:00 | Cienciano vs người Chanka | BLV BLV MOUNTAIN DEW
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80" group-title="Football",2026-10-01 03:00 | Cienciano vs người Chanka | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87547578_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/362e93771930fdf18e2fbfbb2a991e1c.png!w80" group-title="Football",2026-10-01 06:00 | Brooklyn FC vs Detroit | BLV BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -105,10 +103,10 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" group-title="Football",2026-10-01 06:00 | Washington Mystics vs Atlanta Dream | BLV BLV ROCKSTAR
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" group-title="Football",2026-10-01 06:00 | Washington Mystics vs Atlanta Dream | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="Football",2026-10-01 06:30 | New York Red Bulls vs St. Louis City | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -373,9 +371,9 @@ https://hls.lauthaitv.cc/live/pan-nzl-jpnkirin/index.m3u8
 https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
-# Generated at 2026-09-30 15:09:42
+# Generated at 2026-09-30 16:07:42
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Malta U21 vs Germany U21" tvg-logo="https://www.khandai1.link/media/teams/logos/team_9926.jpg" group-title="Bóng đá | UEFA U21 Championship Qualification",30/09 23:00 | Malta U21 vs Germany U21 | [Kền Kền]
+#EXTINF:-1 group-title="Source 4" tvg-name="Malta U21 vs Germany U21" tvg-logo="https://www.khandai1.link/media/teams/logos/team_9926.jpg" group-title="Bóng đá | UEFA U21 Championship Qualification",30/09 23:00 | Malta U21 vs Germany U21 (0-0) | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
 #EXTINF:-1 group-title="Source 4" tvg-name="AS Roma W vs Barcelona W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_331.jpg" group-title="Bóng đá | UEFA Women's Champions League",30/09 23:45 | AS Roma W vs Barcelona W | [Enzo]
@@ -423,10 +421,10 @@ https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c
 #EXTINF:-1 group-title="Source 4" tvg-name="Nhật Bản vs Qatar" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_4xNC98N.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 17:20 | Nhật Bản vs Qatar | [KaKa]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Indonesia vs Bangladesh" tvg-logo="https://www.khandai1.link/media/teams/logos/team_484.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",01/10 18:30 | Indonesia vs Bangladesh | [Chim Nhỏ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Indonesia vs Bangladesh" tvg-logo="https://www.khandai1.link/media/teams/logos/team_484.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",01/10 19:30 | Indonesia vs Bangladesh | [Chim Nhỏ]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Malaysia vs Singapore" tvg-logo="https://www.khandai1.link/media/teams/logos/team_478.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",01/10 18:30 | Malaysia vs Singapore | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="Malaysia vs Singapore" tvg-logo="https://www.khandai1.link/media/teams/logos/team_478.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",01/10 19:30 | Malaysia vs Singapore | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Uzbekistan vs Syria" tvg-logo="https://www.khandai1.link/media/teams/logos/team_646.jpg" group-title="Bóng đá | Friendlies",01/10 21:00 | Uzbekistan vs Syria | [Pháo Thủ]
@@ -462,10 +460,10 @@ https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1
 #EXTINF:-1 group-title="Source 4" tvg-name="Thái Lan vs Philippines" tvg-logo="https://www.khandai1.link/media/teams/logos/team_480.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",02/10 15:00 | Thái Lan vs Philippines | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Việt Nam vs Pakistan" tvg-logo="https://www.khandai1.link/media/teams/logos/team_479.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",02/10 15:00 | Việt Nam vs Pakistan | [Chim Nhỏ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Việt Nam vs Pakistan" tvg-logo="https://www.khandai1.link/media/teams/logos/team_479.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",02/10 16:00 | Việt Nam vs Pakistan | [Chim Nhỏ]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Việt Nam vs Pakistan" tvg-logo="https://www.khandai1.link/media/teams/logos/team_479.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",02/10 15:00 | Việt Nam vs Pakistan | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="Việt Nam vs Pakistan" tvg-logo="https://www.khandai1.link/media/teams/logos/team_479.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",02/10 16:00 | Việt Nam vs Pakistan | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="North Korea W vs Japan W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_31639.jpg" group-title="Bóng đá | Asian Games",02/10 17:30 | North Korea W vs Japan W | [Chim Nhỏ]
