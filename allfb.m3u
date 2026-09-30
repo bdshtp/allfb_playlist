@@ -49,26 +49,18 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8z0elqo9.png" group-title="Gavang",01/10 23:45 | Austria Wien Women vs Inter Milan Women
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/df321578b4f5f132345d2e6b39743126.png!w80" group-title="Football",2026-09-30 19:00 | Hồng Kông vs Brunei | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/9gklzi1gj36fm7x_369aa296e1ad2b2772571428b6379099_autoChange.m3u8?auth_key=1790790145-0-0-928ccbd4c9ed657ffe67053851a9d72d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/6a361dfa300bb39d857d5e6264788ccf.png!w80" group-title="Football",2026-09-30 21:00 | Aktobe W vs Ajax Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1974004c6d06c5f9bdaaef35b1ca7d73.png!w80" group-title="Football",2026-09-30 21:00 | phụ nữ Farul Constanta vs Sparta Prague Nữ | BLV BLV SPRITE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75748097_tsc.m3u8
+https://live.dyrur1.com/live/74351880_288f038e560fe3178f65d6484367da69_autoChange.m3u8?auth_key=1790793983-0-0-d1d9731648b972ac712652eac5269c5e
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80" group-title="Football",2026-09-30 23:00 | ĐTQG Lithuania vs Andorra | BLV BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="Football",2026-09-30 23:00 | Eritrea vs Nam Phi | BLV BLV 7UP
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="Football",2026-09-30 23:00 | Eritrea vs Nam Phi | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/78905744_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/09c9433cfa1c306e6b774a272da7f5a9.png!w80" group-title="Football",2026-09-30 23:45 | AS Roma Nữ vs Barcelona Nữ | BLV BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -117,6 +109,10 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="Football",2026-10-01 06:30 | New York Red Bulls vs St. Louis City | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80" group-title="Football",2026-10-01 07:00 | Argentina vs Bolivia | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -351,13 +347,9 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oml
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9mczJwZHdsbTRyZDlhOWNrbXUxZnNxaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="Đang phát" , 30-09-2026 23:45 ⚽ AS Roma W vs Barcelona W [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOms0YXJsOWZrdDFmY3dkY29nenh1dmJ0dA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/ab65f5e1-fd02-491e-82fa-4cc90f491c13" group-title="Sắp diễn ra" , 01-10-2026 00:30 ⚽ Uzbekistan U23 vs Japan U23 (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/uzb-jpn-asiad/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/497bb8f9-7f2f-441b-a6f8-e9135d80e243" group-title="Sắp diễn ra" , 01-10-2026 02:00 ⚽ Hong Kong vs Brunei (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/hkg-bru-ffasean/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/28cf0197-7a6e-4fa2-abbf-fd0415225940" group-title="Sắp diễn ra" , 01-10-2026 03:30 ⚽ FC Vsetin vs Bohemians FC (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/vsetin-bohem-czecup/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/38d1907f-6b54-484a-a34f-09b221d86132" group-title="Sắp diễn ra" , 01-10-2026 06:00 ⚽ Follo vs Sarsborg (NGƯỜI SẮT)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/46adbaf8-5b39-42fb-9590-51d587f7fbb3" group-title="Sắp diễn ra" , 01-10-2026 04:00 ⚽ Aktobe W vs Ajax Amsterdam Women (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/follo-sarps-norcup/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/f4453e4f-5019-4ad8-a013-7f1f66e58d02" group-title="Sắp diễn ra" , 01-10-2026 06:00 ⚽ Eritrea vs South Africa (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/eri-southafrica-cafcon/index.m3u8
@@ -381,7 +373,7 @@ https://hls.lauthaitv.cc/live/pan-nzl-jpnkirin/index.m3u8
 https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
-# Generated at 2026-09-30 14:08:38
+# Generated at 2026-09-30 15:09:42
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Malta U21 vs Germany U21" tvg-logo="https://www.khandai1.link/media/teams/logos/team_9926.jpg" group-title="Bóng đá | UEFA U21 Championship Qualification",30/09 23:00 | Malta U21 vs Germany U21 | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
