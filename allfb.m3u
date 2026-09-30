@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhydn93ryk.png" group-title="Gavang",30/09 16:00 | Timor Leste vs Cambodia
-https://live2.zktsva.app/live/294335.m3u8
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnd9j3qdy.png" group-title="Gavang",30/09 19:00 | Hong Kong vs Brunei Darussalam
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl83klq1z.png" group-title="Gavang",30/09 21:00 | Farul Constanta Women vs Sparta Praha Women
@@ -58,7 +58,7 @@ https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="Football",2026-09-30 13:00 | Hàn Quốc U23 vs Trung Quốc U23 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/75066458_e3781be41452cfae03bb3d00a669568d_autoChange.m3u8?auth_key=1790765248-0-0-19fb0eb506865d2c71530abbde15515a
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="Football",2026-09-30 14:30 | New Zealand Breakers vs Cairns Taipans | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -417,9 +417,9 @@ https://hls.lauthaitv.cc/live/pan-nzl-jpnkirin/index.m3u8
 https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
-# Generated at 2026-09-30 06:06:15
+# Generated at 2026-09-30 06:54:42
 
-#EXTINF:-1 group-title="Source 4" tvg-name="South Korea U23 vs China U23" tvg-logo="https://www.khandai1.link/media/teams/logos/images_8kF19fZ.jpg" group-title="Bóng đá | Asian Games",30/09 13:00 | South Korea U23 vs China U23 (0-0) | [Kền Kền]
+#EXTINF:-1 group-title="Source 4" tvg-name="South Korea U23 vs China U23" tvg-logo="https://www.khandai1.link/media/teams/logos/images_8kF19fZ.jpg" group-title="Bóng đá | Asian Games",30/09 13:00 | South Korea U23 vs China U23 | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Timor-Leste vs Cambodia" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_2rRVLbr.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",30/09 16:00 | Timor-Leste vs Cambodia | [Pháo Thủ]
