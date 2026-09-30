@@ -63,18 +63,14 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8z0elqo9.png" group-title="Gavang",01/10 23:45 | Austria Wien Women vs Inter Milan Women
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/54803d9a444e58a28e10b6563e60fec8.png!w80" group-title="Football",2026-09-30 04:00 | French Guiana vs Sint Maarten | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220906_0edf3d09a483e741a2ae8f6f1ca218ec_autoChange.m3u8?auth_key=1790736024-0-0-0f7657c39f86bfcbc53c93e6ae686ae4
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" group-title="Football",2026-09-30 05:30 | Indiana Fever vs Las Vegas Aces | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/edq0esd39z6fekx_30d4d20a604e97515d87b20a95941428_autoChange.m3u8?auth_key=1790736024-0-0-34e6c263bf977f7c2ed8a342f4f4e3e6
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b87a20a2b24f9944084890d1a136a22f.png!w80" group-title="Football",2026-09-30 06:00 | Anguilla vs Aruba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/73220998_d635120c3fcf8de1676a60034c94527d_autoChange.m3u8?auth_key=1790739302-0-0-bb0cb16f1e593d42d6fa32339f51e233
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80" group-title="Football",2026-09-30 05:30 | Indiana Fever vs Las Vegas Aces | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/edq0esd39z6fekx_30d4d20a604e97515d87b20a95941428_autoChange.m3u8?auth_key=1790739302-0-0-275fe80f4bf2e5707f39fbdcbda67422
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="Football",2026-09-30 07:00 | Mỹ vs Chilê | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -263,8 +259,6 @@ https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/d65e73fe-146c-48e7-9437-2bb6a7515b87" group-title="Sắp diễn ra" , 30-09-2026 10:30 ⚽ Deportivo Pereira vs Independiente Santa Fe (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/pereira-santafe-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="Sắp diễn ra" , 30-09-2026 12:30 ⚽ Botafogo vs Ponte Preta (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/bota-ponte-brasb/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Sắp diễn ra" , 30-09-2026 14:00 ⚽ USA vs Chile (NGƯỜI SÓI)
@@ -317,7 +311,7 @@ https://hls.lauthaitv.cc/live/pan-nzl-jpnkirin/index.m3u8
 https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
-# Generated at 2026-09-29 23:04:24
+# Generated at 2026-09-30 00:06:58
 
 #EXTINF:-1 group-title="Source 4" tvg-name="South Korea U23 vs China U23" tvg-logo="https://www.khandai1.link/media/teams/logos/images_8kF19fZ.jpg" group-title="Bóng đá | Asian Games",30/09 13:00 | South Korea U23 vs China U23 | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
