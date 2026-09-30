@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnv0jwqvy.png" group-title="Gavang",30/09 23:00 | Eritrea vs South Africa
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh8l573r1g.png" group-title="Gavang",30/09 23:00 | Lithuania vs Andorra
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghgok2jm0v.png" group-title="Gavang",30/09 23:45 | AS Roma Women vs Barcelona Women
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh8l4vvr1g.png" group-title="Gavang",30/09 23:45 | Paris FC Women vs Arsenal Women
@@ -47,34 +43,34 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8z0elqo9.png" group-title="Gavang",01/10 23:45 | Austria Wien Women vs Inter Milan Women
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80" group-title="Football",2026-09-30 23:00 | ĐTQG Lithuania vs Andorra | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73685560_50c1157acbbdd755931a9f152ca29725_autoChange.m3u8?auth_key=1790801018-0-0-68ae9425d44a5207b961872208b2d91f
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80" group-title="Football",2026-09-30 23:00 | Eritrea vs Nam Phi | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live5.dyrur1.com/live/74372500_743e2cb95146bb0a07d487e23894f5d5_autoChange.m3u8?auth_key=1790801018-0-0-59e9cdaea05b8c7d23303a0483c54c2a
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/09c9433cfa1c306e6b774a272da7f5a9.png!w80" group-title="Football",2026-09-30 23:45 | AS Roma Nữ vs Barcelona Nữ | BLV 
+https://live5.dyrur1.com/live/74372500_743e2cb95146bb0a07d487e23894f5d5_autoChange.m3u8?auth_key=1790804472-0-0-d073b8ba06149a972e18ff574b2cc15e
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80" group-title="Football",2026-09-30 23:00 | ĐTQG Lithuania vs Andorra | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74371800_3e8252da7db40217109f3ad644d32dba_autoChange.m3u8?auth_key=1790801017-0-0-d1f2120e20e25fdc914e8b40fbb22144
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/fabc3fa7f297e32d91291693eb8c1404.png!w80" group-title="Football",2026-09-30 23:45 | Paris FC Nữ vs Arsenal Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/74371804_b2b730c5fe926e8d1bcb87c163c0e44d_autoChange.m3u8?auth_key=1790801007-0-0-618d761b26ce0ab1f7f17941378076be
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e121cced31de682c590d3305327061df.png!w80" group-title="Football",2026-09-30 23:45 | Hacken Nữ vs Juventus Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80" group-title="Football",2026-10-01 00:30 | Bahrain vs Yemen | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73685560_50c1157acbbdd755931a9f152ca29725_autoChange.m3u8?auth_key=1790804472-0-0-39df9076e99d696d293390201e6d8d11
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80" group-title="Football",2026-10-01 00:30 | United Arab Emirates vs Qatar | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live5.dyrur1.com/live/73840448_6df2cf783197251cb77e105ac2b749ee_autoChange.m3u8?auth_key=1790804474-0-0-22d59b8fc908d6673393ad1f0f26ce88
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/595e32d94437adf5bde6225b77bf1e14.png!w80" group-title="Football",2026-10-01 00:30 | Bahrain vs Yemen | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73840450_e0af718fb4b50573d8b946e03329fdbb_autoChange.m3u8?auth_key=1790804474-0-0-556208a7d18937b001efd393fb85c5d5
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/09c9433cfa1c306e6b774a272da7f5a9.png!w80" group-title="Football",2026-09-30 23:45 | AS Roma Nữ vs Barcelona Nữ | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/74371800_3e8252da7db40217109f3ad644d32dba_autoChange.m3u8?auth_key=1790804473-0-0-c2efc5751ff71b14226182845ad25291
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/fabc3fa7f297e32d91291693eb8c1404.png!w80" group-title="Football",2026-09-30 23:45 | Paris FC Nữ vs Arsenal Nữ | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/74371804_b2b730c5fe926e8d1bcb87c163c0e44d_autoChange.m3u8?auth_key=1790804473-0-0-df254998f8c88846f555a427abd8dd11
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e121cced31de682c590d3305327061df.png!w80" group-title="Football",2026-09-30 23:45 | Hacken Nữ vs Juventus Nữ | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/74371802_10e9691fe228d4736c16963e39647c3e_autoChange.m3u8?auth_key=1790804473-0-0-1529b653eb1829705ae81f2e3d92c493
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f59d8d3db21b4054ac9e83a15f7b2609.png!w80" group-title="Football",2026-10-01 01:00 | Birmingham Nữ vs Liverpool Nữ | BLV BLV Cozy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -331,20 +327,16 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/78905744_tsc.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/poland-u21-60056" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Ba Lan U21 vs Thụy Điển U21 [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTkzODU0Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZhMnp5b3Z5Nm5ndjJrcXl0NWpvNmRyZg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-u21-132968" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Malta U21 vs Đức U21 [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTkzODU0Njg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmkwbnN6dGZyanNvY3p3aDQzbTA1MTB4ZQ/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-u21-60070" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Cộng hòa Séc U21 vs Bulgaria U21 [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTkzODUzNDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndycDlwNXFvOTZ0bHFldWJxc28xZWk4aw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="Đang phát" , 30-09-2026 23:45 ⚽ Paris W vs Arsenal W [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmlkaWd0azN6YTJxMTUyd2Z0OWhpcjA3Ng/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Đang phát" , 30-09-2026 23:45 ⚽ BK Häcken W vs Juventus W [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9mczJwZHdsbTRyZDlhOWNrbXUxZnNxaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="Đang phát" , 30-09-2026 23:45 ⚽ AS Roma W vs Barcelona W [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOms0YXJsOWZrdDFmY3dkY29nenh1dmJ0dA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/28cf0197-7a6e-4fa2-abbf-fd0415225940" group-title="Sắp diễn ra" , 01-10-2026 03:30 ⚽ FC Vsetin vs Bohemians FC (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/vsetin-bohem-czecup/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/46adbaf8-5b39-42fb-9590-51d587f7fbb3" group-title="Sắp diễn ra" , 01-10-2026 04:00 ⚽ Aktobe W vs Ajax Amsterdam Women (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/follo-sarps-norcup/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/f4453e4f-5019-4ad8-a013-7f1f66e58d02" group-title="Sắp diễn ra" , 01-10-2026 06:00 ⚽ Eritrea vs South Africa (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/eri-southafrica-cafcon/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/8390cd0d-a66e-413e-a729-0d9271961c92" group-title="Sắp diễn ra" , 01-10-2026 06:45 ⚽ AS Roma Women vs Barcelona Women (NGƯỜI SÓI)
@@ -367,21 +359,18 @@ https://hls.lauthaitv.cc/live/pan-nzl-jpnkirin/index.m3u8
 https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
-# Generated at 2026-09-30 17:05:56
+# Generated at 2026-09-30 18:06:26
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Malta U21 vs Germany U21" tvg-logo="https://www.khandai1.link/media/teams/logos/team_9926.jpg" group-title="Bóng đá | UEFA U21 Championship Qualification",30/09 23:00 | Malta U21 vs Germany U21 (1-3) | [Kền Kền]
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-
-#EXTINF:-1 group-title="Source 4" tvg-name="AS Roma W vs Barcelona W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_331.jpg" group-title="Bóng đá | UEFA Women's Champions League",30/09 23:45 | AS Roma W vs Barcelona W (0-1) | [Enzo]
+#EXTINF:-1 group-title="Source 4" tvg-name="AS Roma W vs Barcelona W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_331.jpg" group-title="Bóng đá | UEFA Women's Champions League",30/09 23:45 | AS Roma W vs Barcelona W (0-4) | [Enzo]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Bahrain vs Yemen" tvg-logo="https://www.khandai1.link/media/teams/logos/team_643.jpg" group-title="Bóng đá | Gulf Cup of Nations",01/10 00:30 | Bahrain vs Yemen | [Tiểu Mây]
+#EXTINF:-1 group-title="Source 4" tvg-name="Bahrain vs Yemen" tvg-logo="https://www.khandai1.link/media/teams/logos/team_643.jpg" group-title="Bóng đá | Gulf Cup of Nations",01/10 00:30 | Bahrain vs Yemen (1-2) | [Tiểu Mây]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="United Arab Emirates vs Qatar" tvg-logo="https://www.khandai1.link/media/teams/logos/team_650.jpg" group-title="Bóng đá | Gulf Cup of Nations",01/10 00:30 | United Arab Emirates vs Qatar | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="United Arab Emirates vs Qatar" tvg-logo="https://www.khandai1.link/media/teams/logos/team_650.jpg" group-title="Bóng đá | Gulf Cup of Nations",01/10 00:30 | United Arab Emirates vs Qatar (0-1) | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Durham W vs Manchester Utd W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_11034.jpg" group-title="Bóng đá | FA Women's League Cup",01/10 01:00 | Durham W vs Manchester Utd W | [Pháo Thủ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Durham W vs Manchester Utd W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_11034.jpg" group-title="Bóng đá | FA Women's League Cup",01/10 01:00 | Durham W vs Manchester Utd W (0-0) | [Pháo Thủ]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Lyon W vs Chelsea W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_30.jpg" group-title="Bóng đá | UEFA Women's Champions League",01/10 02:00 | Lyon W vs Chelsea W | [Enzo]
