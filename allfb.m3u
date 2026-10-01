@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh87pg5qwz.png" group-title="Gavang",01/10 23:00 | Guinea vs Kenya
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66h8z0elqo9.png" group-title="Gavang",01/10 23:45 | Austria Wien Women vs Inter Milan Women
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8d9wr1g.png" group-title="Gavang",02/10 01:45 | Greece vs Netherlands
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dg8emoj.png" group-title="Gavang",02/10 01:45 | Germany vs Serbia
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2pddrep.png" group-title="Gavang",02/10 01:45 | Wales vs Norway
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx8ydpqo9.png" group-title="Gavang",02/10 01:45 | Denmark vs Portugal
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6dg8emoj.png" group-title="Gavang",02/10 01:45 | Germany vs Serbia
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk8d9wr1g.png" group-title="Gavang",02/10 01:45 | Greece vs Netherlands
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl9ydymoe.png" group-title="Gavang",02/10 01:45 | Israel vs Kosovo
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6yp13q86.png" group-title="Gavang",02/10 01:45 | Ireland vs Austria
@@ -91,54 +87,42 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx69r8k.png" group-title="Gavang",03/10 23:00 | Estonia vs Luxembourg
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f653d5976458f0dcce2b3939259acffa.png!w80" group-title="Football",2026-10-01 23:00 | Azerbaijan vs ĐTQG Liechtenstein | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/68932072_bae82a0139247647d0dfc7212a19224a_autoChange.m3u8?auth_key=1790890994-0-0-f22bfcc34215c07e3ab2ff20cee8f527
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/25a7ebe2fc19902b896b3a184ef420c9.png!w80" group-title="Football",2026-10-01 22:45 | Bani Yas vs Al Wahda | BLV BLV MONSTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png!w80" group-title="Football",2026-10-01 23:00 | Guinea vs Đội tuyển bóng đá quốc gia Kenya | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/74372502_75f10151b0cff6bb8b0780c5b0c923bb_autoChange.m3u8?auth_key=1790890994-0-0-fec5e83aca3ea076373969c34e318548
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png!w80" group-title="Football",2026-10-01 23:45 | Áo Vienna phụ nữ vs Inter Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74371812_9f900e1d77f60f675bcb69b6d39dba60_autoChange.m3u8?auth_key=1790890995-0-0-b92467e623c3cb994d5a7ca6e63408e8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80" group-title="Football",2026-10-02 01:45 | CLB Greece vs ĐTQG Hà Lan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="Football",2026-10-02 01:45 | Đức vs Serbia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80" group-title="Football",2026-10-02 01:45 | Xứ Wales vs Na Uy | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/68932042_aba68b0927c851987f72b59a500cca12_autoChange.m3u8?auth_key=1790894617-0-0-adb947a0a488673858b2f3660991aa38
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80" group-title="Football",2026-10-02 01:45 | ĐTQG Đan Mạch vs Bồ Đào Nha | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a370afda41a7ae62dcb8d1b721b92bed.png!w80" group-title="Football",2026-10-02 01:45 | ĐTQG Israel vs ĐTQG Kosovo | BLV 
+https://live2.dyrur1.com/live/68931862_4b017508ebd1477263b65d303bbfbe1e_autoChange.m3u8?auth_key=1790894617-0-0-ed00e263c8a671234dc6a9d9e7550933
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="Football",2026-10-02 01:45 | Đức vs Serbia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/68931524_0e08f022994111edb10c2c8d9ad48d0c_autoChange.m3u8?auth_key=1790894617-0-0-61924a0e928b479c7bfe09ecc5fcd0b1
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80" group-title="Football",2026-10-02 01:45 | CLB Greece vs ĐTQG Hà Lan | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/68931530_3896551965cf2994a5e0b1688aaf17d4_autoChange.m3u8?auth_key=1790894617-0-0-42cb627b95b56be69e6cde6184523c1f
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png!w80" group-title="Football",2026-10-02 01:45 | Ireland vs ĐTQG Áo | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/68932730_08cce5a7b7c339a7653d1304adbbc171_autoChange.m3u8?auth_key=1790894617-0-0-eb2d42d2389426b7111ef23593a4c35a
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png!w80" group-title="Football",2026-10-01 23:45 | Áo Vienna phụ nữ vs Inter Nữ | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/74371812_9f900e1d77f60f675bcb69b6d39dba60_autoChange.m3u8?auth_key=1790894195-0-0-1716f2f8e5b60de94962cf92dd049ad3
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a370afda41a7ae62dcb8d1b721b92bed.png!w80" group-title="Football",2026-10-02 01:45 | ĐTQG Israel vs ĐTQG Kosovo | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/68932728_b981b2b937ccfe64c92f70f4cf0feece_autoChange.m3u8?auth_key=1790894617-0-0-e19856d67c3d840235b143f29064ab6e
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80" group-title="Football",2026-10-02 01:45 | Malta vs Gibraltar | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" group-title="Football",2026-10-02 02:00 | Quần đảo Virgin Anh vs Montserrat | BLV BLV BÍ ĐAO
+https://live5.dyrur1.com/live/68932810_3fb8668a14e6f94664933d3393fbc917_autoChange.m3u8?auth_key=1790894617-0-0-7bcb694b8e2bd96f624e53343b25d158
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80" group-title="Football",2026-10-02 02:00 | Quần đảo Virgin Anh vs Montserrat | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/99121525_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="Football",2026-10-02 04:00 | Dominica vs Guyana | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -387,10 +371,6 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/azerbaijan-18623" group-title="Đang phát" , 01-10-2026 23:00 ⚽ Azerbaijan vs Liechtenstein [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3OTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm40ajQwaDdiNnpzcTYzNHY4MGwzd2c1dg/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/azerbaijan-18623" group-title="Đang phát" , 01-10-2026 23:00 ⚽ Azerbaijan vs Liechtenstein [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3OTk6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnRteXJxZ2M1ZGF0ZWp0NzUzemdnYzRjag/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kge-239407" group-title="Đang phát" , 01-10-2026 23:45 ⚽ Køge vs Servette Chênois W [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnBnOHN1Ymw3OGRlZ2F4aGZvOGQydjZyeA/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" group-title="Đang phát" , 01-10-2026 23:45 ⚽ Austria Wien W vs Inter Milano W [LIVE] (TRÚC BẠCH)
@@ -407,10 +387,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp
 https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnFibHJoZTl6b25neDcxNmw4dmF1N3JraQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-18583" group-title="Đang phát" , 02-10-2026 01:45 ⚽ Đan Mạch vs Bồ Đào Nha [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmVkN3Z3dTZtejFkeXJ5c2N4dGVpb2Y4OA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/accd2c7a-85ed-4ff1-9479-8a578f1bbb4a" group-title="Sắp diễn ra" , 02-10-2026 06:00 ⚽ Azerbaijan vs Liechtenstein (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/aze-lie-uefanl/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/b9002433-34d5-46f3-8363-68296602d8ba" group-title="Sắp diễn ra" , 02-10-2026 06:00 ⚽ Guinea vs Kenya (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/gui-ken-afcon/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/59c74f96-27db-4ee5-b279-85016db24240" group-title="Sắp diễn ra" , 02-10-2026 06:45 ⚽ Austria Wien Women vs Inter Milan Women (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/austria-inter-c1w/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/d2c0ae71-524c-4bb1-bb4c-e1e01a2e61fb" group-title="Sắp diễn ra" , 02-10-2026 08:45 ⚽ Denmark vs Portugal (NGƯỜI CAT)
@@ -447,24 +423,26 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3NzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmV
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZuZm1xZXo0aDZ1Mjl1MTR5ZW5nOGgxOQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cyprus-18626" group-title="Đang phát" , 02-10-2026 23:00 ⚽ Síp vs Armenia [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmwyYjBwMWFwa2tub2Zod3l5eGVocHRmcg/index.m3u8
-# Generated at 2026-10-01 18:08:12
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/9b911583-dfec-4e4e-b76d-86fd6d14bc71" group-title="Sắp diễn ra" , 02-10-2026 23:00 ⚽ Viet Nam vs Pakistan (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/vie-pak-ffasean/index.m3u8
+# Generated at 2026-10-01 19:05:41
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Ireland vs Austria" tvg-logo="https://www.khandai1.link/media/teams/logos/team_677.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Ireland vs Austria | [Enzo]
+#EXTINF:-1 group-title="Source 4" tvg-name="Ireland vs Austria" tvg-logo="https://www.khandai1.link/media/teams/logos/team_677.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Ireland vs Austria (1-0) | [Enzo]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Denmark vs Portugal" tvg-logo="https://www.khandai1.link/media/teams/logos/team_7.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Denmark vs Portugal | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="Denmark vs Portugal" tvg-logo="https://www.khandai1.link/media/teams/logos/team_7.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Denmark vs Portugal (0-1) | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Germany vs Serbia" tvg-logo="https://www.khandai1.link/media/teams/logos/team_21.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Germany vs Serbia | [Chim Nhỏ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Germany vs Serbia" tvg-logo="https://www.khandai1.link/media/teams/logos/team_21.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Germany vs Serbia (0-0) | [Chim Nhỏ]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Greece vs Netherlands" tvg-logo="https://www.khandai1.link/media/teams/logos/team_679.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Greece vs Netherlands | [Lee Sin]
+#EXTINF:-1 group-title="Source 4" tvg-name="Greece vs Netherlands" tvg-logo="https://www.khandai1.link/media/teams/logos/team_679.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Greece vs Netherlands (0-0) | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Wales vs Norway" tvg-logo="https://www.khandai1.link/media/teams/logos/team_4.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Wales vs Norway | [Pháo Thủ]
+#EXTINF:-1 group-title="Source 4" tvg-name="Wales vs Norway" tvg-logo="https://www.khandai1.link/media/teams/logos/team_4.jpg" group-title="Bóng đá | UEFA Nations League",02/10 01:45 | Wales vs Norway (0-1) | [Pháo Thủ]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Manchester City W vs Real Madrid W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_26.jpg" group-title="Bóng đá | UEFA Women's Champions League",02/10 02:00 | Manchester City W vs Real Madrid W | [Kền Kền]
+#EXTINF:-1 group-title="Source 4" tvg-name="Manchester City W vs Real Madrid W" tvg-logo="https://www.khandai1.link/media/teams/logos/team_26.jpg" group-title="Bóng đá | UEFA Women's Champions League",02/10 02:00 | Manchester City W vs Real Madrid W (0-0) | [Kền Kền]
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Ấn Độ vs Hàn Quốc" tvg-logo="https://www.khandai1.link/media/teams/logos/Flag_of_India.svg.webp" group-title="Bóng chuyền | ASIAD GAME",02/10 08:00 | Ấn Độ vs Hàn Quốc | [Tày]
