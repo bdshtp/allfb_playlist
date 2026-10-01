@@ -116,11 +116,11 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-10-01 17:10 | Nhật Bản vs Ecuador | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_autoChange.m3u8?auth_key=1790865567-0-0-c41e0bac597baa280c8f0da4e325ccbc
+https://live.dyrur1.com/live/74764066_30d3931593990ac679b0869b1791ed4b_autoChange.m3u8?auth_key=1790869308-0-0-61700b1cd92525fbb7de896a87bb81e4
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80" group-title="Football",2026-10-01 16:30 | Tasmania JackNgười Nhảy vs Melbourne Tigers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_autoChange.m3u8?auth_key=1790865567-0-0-1de916df9030ef73a1be51cf9ec3462b
+https://live.dyrur1.com/live/72016790_74053aeafec4a8a209c3dd576e3673d6_autoChange.m3u8?auth_key=1790869308-0-0-971a18fb3f652807800fd552c62203ee
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="Football",2026-10-01 19:30 | Malaysia vs Singapore | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -517,16 +517,13 @@ https://hls.lauthaitv.cc/live/bogota-caldas-cate/index.m3u8
 https://hls.lauthaitv.cc/live/seattle-kansas-mls/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="Sắp diễn ra" , 02-10-2026 16:00 ⚽ Nicaragua vs Costa Rica (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8
-# Generated at 2026-10-01 11:06:33
+# Generated at 2026-10-01 12:08:34
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Philippines vs Indonesia" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_njudfFz.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 17:00 | Philippines vs Indonesia (0-0) | [Enzo]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Japan vs Ecuador" tvg-logo="https://www.khandai1.link/media/teams/logos/team_540.jpg" group-title="Bóng đá | Friendlies",01/10 17:10 | Japan vs Ecuador (0-0) | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
-#EXTINF:-1 group-title="Source 4" tvg-name="Nhật Bản vs Qatar" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_4xNC98N.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 17:20 | Nhật Bản vs Qatar (0-0) | [KaKa]
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Indonesia vs Bangladesh" tvg-logo="https://www.khandai1.link/media/teams/logos/team_484.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",01/10 19:30 | Indonesia vs Bangladesh | [Chim Nhỏ]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
