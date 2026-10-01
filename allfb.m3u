@@ -88,7 +88,7 @@ https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80" group-title="Football",2026-10-01 13:10 | Panama vs New Zealand | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/74297752_675da81e413f862ec31d87348afcd0c2_autoChange.m3u8?auth_key=1790851718-0-0-6dded196d7d90ea0abb8adda44c1a929
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/13a16c993e82e2185b2d869cf5aa0973.png!w80" group-title="Football",2026-10-01 15:00 | Quận Crownity phía Bắc vs Southern District | BLV BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -501,15 +501,12 @@ https://hls.lauthaitv.cc/live/bogota-caldas-cate/index.m3u8
 https://hls.lauthaitv.cc/live/seattle-kansas-mls/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="Sắp diễn ra" , 02-10-2026 16:00 ⚽ Nicaragua vs Costa Rica (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8
-# Generated at 2026-10-01 06:08:46
+# Generated at 2026-10-01 06:57:27
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Hàn Quốc vs Iran" tvg-logo="https://www.khandai1.link/media/teams/logos/Flag_of_South_Korea.svg.webp" group-title="Bóng chuyền | ASIAD GAME",01/10 11:00 | Hàn Quốc vs Iran (0-0) | [KaKa]
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
-#EXTINF:-1 group-title="Source 4" tvg-name="Việt Nam vs Uzbekistan" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 14:00 | Việt Nam vs Uzbekistan | [Lee Sin]
+#EXTINF:-1 group-title="Source 4" tvg-name="Việt Nam vs Uzbekistan" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 14:00 | Việt Nam vs Uzbekistan (0-0) | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
-#EXTINF:-1 group-title="Source 4" tvg-name="Thái Lan vs Trung Quốc" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 14:00 | Thái Lan vs Trung Quốc | [KaKa]
+#EXTINF:-1 group-title="Source 4" tvg-name="Thái Lan vs Trung Quốc" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 14:00 | Thái Lan vs Trung Quốc (0-0) | [KaKa]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Philippines vs Indonesia" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_njudfFz.jpg" group-title="Bóng chuyền | ASIAD GAME",01/10 17:00 | Philippines vs Indonesia | [Enzo]
