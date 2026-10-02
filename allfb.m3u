@@ -67,10 +67,6 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx69r8k.png" group-title="Gavang",03/10 23:00 | Estonia vs Luxembourg
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80" group-title="Football",2026-10-02 09:00 | Nicaragua vs Costa Rica | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220754_022b6fc2aabca35436d87491f6625b9b_autoChange.m3u8?auth_key=1790927023-0-0-a60a07f7f633aa938f67dc1256165bf6
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="Football",2026-10-02 13:00 | Trung Quốc Nữ vs Hàn Quốc Nữ | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -147,10 +143,10 @@ https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="Football",2026-10-02 23:00 | Latvia vs Montenegro | BLV BLV MOUNTAIN DEW
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="Football",2026-10-02 23:00 | Latvia vs Montenegro | BLV BLV BÍ ĐAO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87547578_tsc.m3u8
+https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="Football",2026-10-02 23:00 | Đảo Síp vs CLB Armenia | BLV BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -305,14 +301,10 @@ https://live05.meung.app/live/16226575_tsc.m3u8
 https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/d02726fd-b3da-4f0a-b6a4-53a95752406a" group-title="Sắp diễn ra" , 02-10-2026 15:00 ⚽ Internacional de Bogota vs Deportiva Once Caldas (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/bogota-caldas-cate/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="Sắp diễn ra" , 02-10-2026 15:30 ⚽ Seattle Sounders vs Sporting Kansas City (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/seattle-kansas-mls/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-18709" group-title="Đang phát" , 02-10-2026 16:00 ⚽ Việt Nam vs Pakistan [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4ODM4Nzg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnE1ZnQydHJ6aXNidHhzZjBrcnJ0enI5bg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" group-title="Đang phát" , 02-10-2026 16:00 ⚽ Thái Lan vs Philippines [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4ODM4ODA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om1zZmIxeHhkOTRheGV1MGI5ZHZ0NDR0MQ/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="Sắp diễn ra" , 02-10-2026 16:00 ⚽ Nicaragua vs Costa Rica (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/north-korea-w-149606" group-title="Đang phát" , 02-10-2026 17:30 ⚽ Triều Tiên nữ vs Nhật Bản nữ [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk4ODY1NzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmlqMHh6NXI2eTltM2NzbG9pZXp4OXk5ag/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/71c8f477-0dfd-450a-980c-45839d2d95ed" group-title="Sắp diễn ra" , 02-10-2026 20:00 ⚽ China Women vs South Korea Women (NGƯỜI BẠC)
@@ -361,7 +353,7 @@ https://hls.lauthaitv.cc/live/col-par-intfr/index.m3u8
 https://hls.lauthaitv.cc/live/sal-jam-concacaf/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/509cfb1e-9501-492b-8d5e-621efb440523" group-title="Sắp diễn ra" , 03-10-2026 17:00 ⚽ Monterrey Women vs Club America Women (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/monte-camer-mexligaw/index.m3u8
-# Generated at 2026-10-02 04:05:51
+# Generated at 2026-10-02 05:05:30
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Qatar vs Thái Lan" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_TkTkw3i.jpg" group-title="Bóng chuyền | ASIAD GAME",02/10 11:00 | Qatar vs Thái Lan (0-0) | [KaKa]
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
