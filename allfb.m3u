@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxyj22qo9.png" group-title="Gavang",03/10 10:00 | Club Atletico La Paz vs Venados FC Yucatán
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz380moe.png" group-title="Gavang",03/10 14:00 | Machida Zelvia vs Kyoto Sanga
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h66ye1moj.png" group-title="Gavang",03/10 15:00 | Ulsan Citizens vs Siheung City
@@ -65,23 +63,23 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6j9woqg8.png" group-title="Gavang",04/10 23:30 | UD Las Palmas vs Real Valladolid CF
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/7e16680bbd661fd90dbf08501ae7a98e.png!w80" group-title="Football",2026-10-03 10:00 | Atlético La Paz vs CLB Venados | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72661684_ea82d8f4e0fe698a03a2076bc6570fca_autoChange.m3u8?auth_key=1791016758-0-0-b62db1ddb290217b429d40d78e392072
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png!w80" group-title="Football",2026-10-03 12:00 | Albirex Niigata vs Tokushima | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-03 12:00 | KCC Egis vs LG Sakers | BLV BLV ROCKSTAR
+https://live3.dyrur1.com/live/72151198_013589d6713e554a8fd1019c327b3338_autoChange.m3u8?auth_key=1791020799-0-0-7c3047fcef3d1bd4a4793e6c5ace98aa
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-03 12:00 | Goyang Carrot Jumpers vs Incheon | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="Football",2026-10-03 12:00 | Goyang Carrot Jumpers vs Incheon | BLV BLV Cozy
+https://live.dyrur1.com/live/73657420_f0fe86dcfbccdfd9bb85a9a6d941bdf6_autoChange.m3u8?auth_key=1791020802-0-0-d3239610f9795ad0314073fa9747fae7
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-03 12:00 | KCC Egis vs LG Sakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/87379114_tsc.m3u8
+https://live.dyrur1.com/live/73657418_2a68785b089e2d3e8a92f5a09e4e01a5_autoChange.m3u8?auth_key=1791020802-0-0-c866c7328811ad4d92c30122ead697f0
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80" group-title="Football",2026-10-03 13:00 | Trung Quốc U23 vs Uzbekistan U23 | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="Football",2026-10-03 14:00 | Machida vs Kyoto Sanga | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
@@ -359,12 +357,12 @@ https://hls.lauthaitv.cc/live/arg-bur-intfr/index.m3u8
 https://hls.lauthaitv.cc/live/usa-mex-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 04-10-2026 17:10 ⚽ Necaxa Women vs Cruz Azul Women (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/neca-cruz-mexligaw/index.m3u8
-# Generated at 2026-10-03 05:04:45
+# Generated at 2026-10-03 06:11:34
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Thái Lan vs Ấn Độ" tvg-logo="https://www.khandai1.link/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="Bóng chuyền | ASIAD GAME",03/10 11:00 | Thái Lan vs Ấn Độ (0-0) | [Enzo]
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 
-#EXTINF:-1 group-title="Source 4" tvg-name="China U23 vs Uzbekistan U23" tvg-logo="https://www.khandai1.link/media/teams/logos/team_9462.jpg" group-title="Bóng đá | Asian Games",03/10 13:00 | China U23 vs Uzbekistan U23 | [Tày]
+#EXTINF:-1 group-title="Source 4" tvg-name="China U23 vs Uzbekistan U23" tvg-logo="https://www.khandai1.link/media/teams/logos/team_9462.jpg" group-title="Bóng đá | Asian Games",03/10 13:00 | China U23 vs Uzbekistan U23 (0-0) | [Tày]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Kazakhstan vs Indonesia" tvg-logo="https://www.khandai1.link/media/teams/logos/Flag_of_Kazakhstan.svg.webp" group-title="Bóng chuyền | ASIAD GAME",03/10 14:00 | Kazakhstan vs Indonesia | [Tiểu Mây]
