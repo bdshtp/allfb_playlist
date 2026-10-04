@@ -25,30 +25,14 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8lwk3qwz.png" group-title="Gavang",05/10 23:30 | Sweden U21 vs North Macedonia U21
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1415dc375c993c821db970fdf320c0e8.png!w80" group-title="Football",2026-10-05 03:00 | Quần đảo Turks & Caicos vs Quần đảo Virgin Anh | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/73220984_ffa100d685d67b831ca27abd4c0e744a_autoChange.m3u8?auth_key=1791164617-0-0-a81db17708d3d3015e42454f33b0d1b3
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/44cb6b8a76b2194e16849eace4743e54.png!w80" group-title="Football",2026-10-05 03:00 | Talleres Cordoba vs Belgrano | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73265346_868e28ac1041d752d5aeacd5a0d2f3d0_autoChange.m3u8?auth_key=1791164616-0-0-e26ffdd098d8576d6a87eb7cb23a22bd
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/33f4365d46e7dad72e198ab5326ba525.png!w80" group-title="Football",2026-10-05 03:00 | Bahamas vs Quần đảo Virgin Mỹ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73221080_6784350941b908d6346ac0e615a9988e_autoChange.m3u8?auth_key=1791164616-0-0-14d7e76b96b757b301347e1831a58003
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-10-05 03:00 | Golden State Valkyries vs Las Vegas Aces | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75243940_328c4e79cf4a96adc5578751f4099caf_autoChange.m3u8?auth_key=1791164616-0-0-ee2f6792e3f55aa156d37dd2e66061b9
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" group-title="Football",2026-10-05 05:00 | Puerto Rico vs Quần đảo Cayman | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" group-title="Football",2026-10-05 05:00 | Trinidad & Tobago vs Curacao | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73220762_aacd5fe94d2d6f6874da7fc16b11fa0d_autoChange.m3u8?auth_key=1791167823-0-0-c63ccaf984a062523e02431145a1367d
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" group-title="Football",2026-10-05 05:00 | Puerto Rico vs Quần đảo Cayman | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/73220860_800f221b9bf896af802895561b90670d_autoChange.m3u8?auth_key=1791167823-0-0-a38deecc8e07f2e4a104671161292650
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-05 06:00 | Los Angeles Clippers vs Golden State Warriors | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -261,8 +245,6 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/2f73acc8-0f5e-4864-bc7d-bf855cd43149" group-title="Sắp diễn ra" , 05-10-2026 10:00 ⚽ Talleres Cordoba vs Belgrano (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/cordo-belgra-argdiv1/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/5ea75af5-7be1-49bd-a012-8d3bb9482d33" group-title="Sắp diễn ra" , 05-10-2026 11:05 ⚽ Cucuta Deportivo vs Deportivo Pereira (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/cucu-perei-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6f8365c8-5305-48a3-94e9-a4fd46af2bc4" group-title="Sắp diễn ra" , 05-10-2026 12:00 ⚽ Trinidad & Tobago vs Curacao (NGƯỜI PHÁO)
@@ -337,7 +319,7 @@ https://hls.lauthaitv.cc/live/monte-torque-uruprim/index.m3u8
 https://hls.lauthaitv.cc/live/mdellin-santafe-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="Sắp diễn ra" , 06-10-2026 16:00 ⚽ Honduras vs Jamaica (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/hon-jam-concacaf/index.m3u8
-# Generated at 2026-10-04 22:05:36
+# Generated at 2026-10-04 23:03:49
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Malaysia vs Việt Nam" tvg-logo="https://www.khandai1.link/media/teams/logos/team_478.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",05/10 16:00 | Malaysia vs Việt Nam | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
