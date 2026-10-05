@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl8okyq1z.png" group-title="Gavang",05/10 06:00 | Aruba vs Anguilla
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx9wlmd7.png" group-title="Gavang",05/10 07:00 | Costa Rica vs Haiti
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h67ljnmoj.png" group-title="Gavang",05/10 09:00 | Nicaragua vs Dominican Republic
@@ -23,31 +21,23 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8lwk3qwz.png" group-title="Gavang",05/10 23:30 | Sweden U21 vs North Macedonia U21
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80" group-title="Football",2026-10-05 05:00 | Trinidad & Tobago vs Curacao | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73220762_aacd5fe94d2d6f6874da7fc16b11fa0d_autoChange.m3u8?auth_key=1791171652-0-0-1b3d9fd09710622b84247f49df0f5c1d
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80" group-title="Football",2026-10-05 05:00 | Puerto Rico vs Quần đảo Cayman | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73220860_800f221b9bf896af802895561b90670d_autoChange.m3u8?auth_key=1791171652-0-0-79d045611213457f09bd7d7f18162181
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-05 06:00 | Los Angeles Clippers vs Golden State Warriors | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/74247686_75e8954951fc4ab1ffb1377b7943ebcb_autoChange.m3u8?auth_key=1791171652-0-0-17efdfc06e9b3509fffac871f8212ab6
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Football",2026-10-05 06:00 | Denver Nuggets vs Utah Jazz | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" group-title="Football",2026-10-05 06:00 | Aruba vs Anguilla | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73221002_2299b6584343c442316bc1d051959e20_autoChange.m3u8?auth_key=1791171652-0-0-0d046e27690c0c00dc4edf54226566ba
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80" group-title="Football",2026-10-05 07:00 | Costa Rica vs Haiti | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/73220760_9fdf4a63e805ae0d51ad4d42f0807aee_autoChange.m3u8?auth_key=1791175830-0-0-2f443775e90d2576bc553e6becf6fa17
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/cff843c1f724a378bd0ae42d842ef807.png!w80" group-title="Football",2026-10-05 06:00 | Aruba vs Anguilla | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/73221002_2299b6584343c442316bc1d051959e20_autoChange.m3u8?auth_key=1791175830-0-0-dc596a7ece04a3148922037f455c19fb
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/578175c1a0691907824154179e179ade.png!w80" group-title="Football",2026-10-05 07:30 | Estudiantes Rio Cuarto vs Racing Club | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73265362_fe2c21ad5f246704cd02bbec2412e598_autoChange.m3u8?auth_key=1791175830-0-0-7b903ec2d1bb8e72f7dfd5e1d5a84766
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="Football",2026-10-05 06:00 | Los Angeles Clippers vs Golden State Warriors | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/74247686_75e8954951fc4ab1ffb1377b7943ebcb_autoChange.m3u8?auth_key=1791175830-0-0-b8dd7703ffd577d81751451875ec166c
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Football",2026-10-05 06:00 | Denver Nuggets vs Utah Jazz | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
@@ -63,6 +53,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80" group-title="Football",2026-10-05 13:30 | Ecuador vs Panama | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-05 14:30 | Incheon vs Anyang KGC | BLV BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -71,10 +65,18 @@ https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="Football",2026-10-05 17:30 | Đội tuyển Bóng đá Quốc gia Nhật Bản vs New Zealand | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/07808742_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80" group-title="Football",2026-10-05 18:00 | Anh U19 vs Bỉ U19 | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/819cb719070060f7ed171e0735cc7015.png!w80" group-title="Football",2026-10-05 18:45 | PAOK Thessaloniki B vs Hellas Syrou | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/08552895_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png!w80" group-title="Football",2026-10-05 20:00 | Indonesia vs Thái Lan | BLV BLV HỔ VẰN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -207,6 +209,10 @@ https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" group-title="Football",2026-10-06 18:00 | Wuxi Wugou vs Suzhou Dongwu | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80" group-title="Football",2026-10-06 18:35 | Trung Quốc vs Cộng hòa Tajikistan | BLV BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -243,8 +249,6 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6f8365c8-5305-48a3-94e9-a4fd46af2bc4" group-title="Sắp diễn ra" , 05-10-2026 12:00 ⚽ Trinidad & Tobago vs Curacao (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/tat-cur-concacaf/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/a58d7681-5eed-41c3-8fec-0aefb142c39b" group-title="Sắp diễn ra" , 05-10-2026 12:15 ⚽ Argentinos Juniors vs Club Atletico Tigre (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/argju-atltigre-argdiv1/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/2c9754e1-ff45-4ffc-9660-609ff70f490b" group-title="Sắp diễn ra" , 05-10-2026 13:10 ⚽ Atletico Bucaramanga vs Atletico Junior Barranquilla (NGƯỜI THỎ)
@@ -315,7 +319,7 @@ https://hls.lauthaitv.cc/live/monte-torque-uruprim/index.m3u8
 https://hls.lauthaitv.cc/live/mdellin-santafe-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="Sắp diễn ra" , 06-10-2026 16:00 ⚽ Honduras vs Jamaica (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/hon-jam-concacaf/index.m3u8
-# Generated at 2026-10-05 00:06:56
+# Generated at 2026-10-05 01:08:00
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Malaysia vs Việt Nam" tvg-logo="https://www.khandai1.link/media/teams/logos/team_478.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",05/10 16:00 | Malaysia vs Việt Nam | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
