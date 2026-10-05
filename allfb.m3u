@@ -74,7 +74,7 @@ https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6yp38q86.png" group-title="Gavang",07/10 01:45 | England vs Czechia
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4kx13r8k.png" group-title="Gavang",07/10 01:45 | Switzerland vs North Macedonia
-https://live2.zktsva.app/live/301238.m3u8
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl76onq1z.png" group-title="Gavang",07/10 01:45 | Belarus vs Finland
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvky9gmd7.png" group-title="Gavang",07/10 01:45 | Moldova vs Slovakia
@@ -118,15 +118,11 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80" group-title="Football",2026-10-05 13:30 | Ecuador vs Panama | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_autoChange.m3u8?auth_key=1791197612-0-0-a1359e11f9eb7384903ccf466abb7243
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Football",2026-10-05 12:00 | Mobis Phoebus vs KCC Egis | BLV 
+https://live.dyrur1.com/live/75222388_badd2d727e5773d06f4021fdc209b85b_autoChange.m3u8?auth_key=1791200484-0-0-8599570eea827d6c12fa1e301edf51e2
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-05 14:30 | Incheon vs Anyang KGC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73657428_7fafc8f918243591be6c67e686d67208_autoChange.m3u8?auth_key=1791197611-0-0-1a4c09d4c5ff8882c78d1d206b348a9c
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-05 14:30 | Incheon vs Anyang KGC | BLV BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/90865415_tsc.m3u8
+https://live1.dyrur1.com/live/73657430_eb21964a4e5d639b5cf6fe5720860aa7_autoChange.m3u8?auth_key=1791200484-0-0-7419133d1e2b44bc2019aaf41e24a0f7
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="Football",2026-10-05 16:00 | Malaysia vs Việt Nam | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -439,8 +435,6 @@ https://live05.meung.app/live/19919577_tsc.m3u8
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmxuZ2VudTVpdmxjajM5MDh0Z3BrYXJraQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 05-10-2026 16:00 ⚽ Malaysia vs Việt Nam [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnA0d3RqZXA5cTQ5d3gydHlvMWRicmNwbw/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/08b23882-8355-454a-8333-da1b4f9eaf53" group-title="Sắp diễn ra" , 05-10-2026 19:00 ⚽ FC Ulaanbaatar vs Ulaagom City (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/baatar-gomcity-mglprem/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" group-title="Đang phát" , 05-10-2026 20:00 ⚽ Indonesia vs Thái Lan [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnphODFrdXdueDBiNjYxczR4ZDVpdDBudw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/2c3a98b9-d786-4b9a-9943-728cf2df3036" group-title="Sắp diễn ra" , 05-10-2026 20:30 ⚽ Ecuador vs Panama (NGƯỜI CÁO)
@@ -497,7 +491,7 @@ https://hls.lauthaitv.cc/live/mdellin-santafe-cate/index.m3u8
 https://hls.lauthaitv.cc/live/hon-jam-concacaf/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/st-louis-city-267299" group-title="Đang phát" , 12-10-2026 06:00 ⚽ St. Louis City vs LA Galaxy [LIVE] (TEST SPORT STREAM )
 https://cdnhls.xbdbotv.live/live/MTk2MDk4NzE6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnludm1hOWt1cGhvcnZ1cTMya3N5YXpqaw/index.m3u8
-# Generated at 2026-10-05 07:11:33
+# Generated at 2026-10-05 08:07:39
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Malaysia vs Việt Nam" tvg-logo="https://www.khandai1.link/media/teams/logos/team_478.jpg" group-title="Bóng đá |  Copa De La Liga - Play Offs",05/10 16:00 | Malaysia vs Việt Nam | [Lee Sin]
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
