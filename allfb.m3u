@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg8kjgq82.png" group-title="Gavang",07/10 09:00 | French Guiana vs Belize
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekh2z6y3rep.png" group-title="Gavang",07/10 09:30 | Mexico vs Chile
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl8p8yq1z.png" group-title="Gavang",07/10 15:00 | Tai'an Tiankuang vs Ganzhou Ruishi
@@ -32,19 +30,15 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="Football",2026-10-07 09:30 | Mexico vs Chilê | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73686222_f34d4f8893051af7698f3c1ce3679ef9_autoChange.m3u8?auth_key=1791355407-0-0-bb56d981d4f96459d73760a64eae0aaf
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80" group-title="Football",2026-10-07 07:30 | Chicago Fire vs Vancouver Whitecaps | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/ndqmliw8y9vcrkv_dc7dd44e91c5622fb65c8d95dccba81b_autoChange.m3u8?auth_key=1791354969-0-0-9cedfa7ca788e4fb5f8abee50f8b2481
+https://live.dyrur1.com/live/73686222_f34d4f8893051af7698f3c1ce3679ef9_autoChange.m3u8?auth_key=1791359085-0-0-9f55d1101fe4a4be053d69c4c697e395
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/54803d9a444e58a28e10b6563e60fec8.png!w80" group-title="Football",2026-10-07 09:00 | French Guiana vs Belize | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73220914_823ea0470c444fc742a3af99dc3bcdb0_autoChange.m3u8?auth_key=1791355407-0-0-84693fadf53374dd832bfdba2b37341f
+https://live1.dyrur1.com/live/73220914_823ea0470c444fc742a3af99dc3bcdb0_autoChange.m3u8?auth_key=1791359085-0-0-3d9875e952b1368b9826ed1b2e6a7162
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Football",2026-10-07 09:00 | Golden State Warriors vs Los Angeles Lakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73323514_2b94a7f668cea570b7db25be5e2639b2_autoChange.m3u8?auth_key=1791355408-0-0-e45d69a82342073fec85e959840c04bc
+https://live2.dyrur1.com/live/73323514_2b94a7f668cea570b7db25be5e2639b2_autoChange.m3u8?auth_key=1791359085-0-0-dcf49d15c4cae2d2d7154b9bc2570641
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/2f9eb966ea08f899aab909c6af10513a.png!w80" group-title="Football",2026-10-07 15:00 | Thái An Thiên Quang vs Thiệu Hưng Thượng Ngọc Pterosaur | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -69,10 +63,10 @@ https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-07 17:00 | KCC Egis vs Incheon | BLV BLV 247
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-07 17:00 | KCC Egis vs Incheon | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/90865415_tsc.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" group-title="Football",2026-10-07 17:00 | Yokohama F. Marinos vs Đại học Kyoto Sangyo | BLV BLV AQUA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -283,8 +277,6 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 https://live05.meung.app/live/08552895_tsc.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Sắp diễn ra" , 07-10-2026 12:30 ⚽ Internacional vs Corinthians (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Sắp diễn ra" , 07-10-2026 14:00 ⚽ USA vs Canada (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/usa-can-intfr/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Đang phát" , 07-10-2026 16:00 ⚽ Urawa Red Diamonds vs Omiya Ardija [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MTY0Njg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onlpa3JpaTZ2MTljcWVuZHM4NjJoMm93dg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sanfrecce-hiroshima-14738" group-title="Đang phát" , 07-10-2026 16:30 ⚽ Sanfrecce Hiroshima vs Iwaki [LIVE] (TIGER)
@@ -341,7 +333,7 @@ https://hls.lauthaitv.cc/live/cruzeiro-saopaulo-brasa/index.m3u8
 https://hls.lauthaitv.cc/live/mdellin-tolima-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Đang phát" , 08-10-2026 19:15 ⚽ Thể Công-Viettel vs Hồng Lĩnh Hà Tĩnh [LIVE] (HUDA)
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOm5zanRmY21ua3hscHBubmlxdms1bnVzcg/index.m3u8
-# Generated at 2026-10-07 03:06:15
+# Generated at 2026-10-07 04:05:46
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Buriram vs Borneo" tvg-logo="https://www.khandai1.link/media/teams/logos/team_7565.jpg" group-title="Bóng đá | ASEAN Club Championship",07/10 19:00 | Buriram vs Borneo | [Pháo Thủ]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
