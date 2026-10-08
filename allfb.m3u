@@ -75,14 +75,12 @@ https://live2.zktsva.app/live/307240.m3u8
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6np32moj.png" group-title="Gavang",09/10 23:30 | 1. FC Heidenheim 1846 vs 1. FC Kaiserslautern
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="Football",2026-10-08 09:00 | Portland Trail Blazers vs Golden State Warriors | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73864150_b44df8bdc1a8e74616848e366f14eb47_autoChange.m3u8?auth_key=1791445533-0-0-de1780c4d00131a667782b312de6c7ab
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-10-08 08:30 | Golden State Valkyries vs Las Vegas Aces | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/75243942_7ea2df89be0fecc50b1e9259cd3722df_autoChange.m3u8?auth_key=1791445533-0-0-a312c13f2869eb7d144109a3c1bbc2f3
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1pj44q0j.png" group-title="Gavang",10/10 01:00 | Al Nassr vs Diraiyah
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hn5ln2qdy.png" group-title="Gavang",10/10 20:30 | FC Augsburg vs FC Bayern Munich
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnd4ddm0v.png" group-title="Gavang",10/10 23:00 | Inter Milan vs Parma
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80" group-title="Football",2026-10-08 15:30 | Cairns Taipans vs Brisbane Bullets | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
