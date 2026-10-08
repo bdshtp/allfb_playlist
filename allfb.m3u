@@ -64,11 +64,11 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6n2j0q86.png" group-title="Gavang",09/10 22:00 | Corvinul Hunedoara vs FC Voluntari
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6gwveq86.png" group-title="Gavang",09/10 22:00 | SJK Seinajoen vs Lahti
-https://live2.zktsva.app/live/796315.m3u8
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw4zyyryo.png" group-title="Gavang",09/10 23:30 | FK Rostov vs Akron Togliatti
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe69v5r6o.png" group-title="Gavang",09/10 23:30 | Eintracht Braunschweig vs Holstein Kiel
-https://live2.zktsva.app/live/301238.m3u8
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6np32moj.png" group-title="Gavang",09/10 23:30 | 1. FC Heidenheim 1846 vs 1. FC Kaiserslautern
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghldon0moe.png" group-title="Gavang",10/10 01:00 | PSV Eindhoven vs SC Heerenveen
@@ -139,34 +139,22 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgkeggr51.png" group-title="Gavang",10/10 23:30 | RB Leipzig vs Eintracht Frankfurt
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Football",2026-10-08 17:00 | Wonju Dongbu Promy vs LG Sakers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/73657436_690fcebe1bcc5117cc42f5017a19eeae_autoChange.m3u8?auth_key=1791474000-0-0-84fe6138d41fe76a68770b5fdb25d267
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="Football",2026-10-08 17:00 | Shakhtar Karagandy vs Akademiya Ontustik | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/69854894_7ccb1513105e8000c4ebcf7973acb7c8_autoChange.m3u8?auth_key=1791473998-0-0-101573b05687008a299e1f23504a57e7
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/6e1508c9ed47664bfe25e353a37e4c50.png!w80" group-title="Football",2026-10-08 17:00 | FK Yelimay Semey B vs FK Arys | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69854892_00e9463a37470916bdee0e345458122a_autoChange.m3u8?auth_key=1791473998-0-0-21a316579d57940faa20fae4bd424118
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/0b4f03fc5a3a1cdf5b96c476ef0c9f35.png!w80" group-title="Football",2026-10-08 18:00 | FK Aktobe II vs Tobol Kostanai B | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69854886_1233d82b630b450cf98ba69ceb1223d0_autoChange.m3u8?auth_key=1791473998-0-0-c0b1429f0752c86099ffef8fa6a3d7cc
+https://live.dyrur1.com/live/69854886_1233d82b630b450cf98ba69ceb1223d0_autoChange.m3u8?auth_key=1791478104-0-0-987c2579685f8f064e456d10cefbf0e1
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/651ba39aae3985527e69ba4511a29fb5.png!w80" group-title="Football",2026-10-08 18:00 | FK Kaspiy Aktau B vs Astana B | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69854888_4647d6e8d7bc4a4936dac7ffbde0f7bb_autoChange.m3u8?auth_key=1791473998-0-0-a4e106f10d37ede34bc00cf8afda0581
+https://live.dyrur1.com/live/69854888_4647d6e8d7bc4a4936dac7ffbde0f7bb_autoChange.m3u8?auth_key=1791478104-0-0-bc06c4a3e1785511a22c32c5c1a216b1
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80" group-title="Football",2026-10-08 18:30 | Lion City vs Cong An Ha Noi FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72597088_96756003774adad49b61e195228f0f26_autoChange.m3u8?auth_key=1791474001-0-0-1d19e9307012644372fa3d9e027e6ea0
+https://live.dyrur1.com/live/72597088_96756003774adad49b61e195228f0f26_autoChange.m3u8?auth_key=1791478104-0-0-cdc6c32357b2d5943c77ab886e76a5b7
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e8ff74bbde41ecfd522e50ad4dd8e7b5.png!w80" group-title="Football",2026-10-08 18:30 | FC Sabail vs Karvan Evlakh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73730282_b307b36df4d2f1641c2479ff542273d0_autoChange.m3u8?auth_key=1791474001-0-0-26191454d14e0d7a0db8c757ee2d80a2
+https://live.dyrur1.com/live/73730282_b307b36df4d2f1641c2479ff542273d0_autoChange.m3u8?auth_key=1791478104-0-0-fb91d30c7829447eb0f240e890e7c4be
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="Football",2026-10-08 19:00 | CLB Johor Darul Takzim vs Vikingur Reykjavik Nữ | BLV BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -174,11 +162,11 @@ https://live05.meung.app/live/78905744_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/fb00f7ae0bf4530e86baf7bec110f69f.png!w80" group-title="Football",2026-10-08 19:00 | Port FC vs CLB Persib Bandung | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live4.dyrur1.com/live/72597084_563f17a3a77782c2a36c91ed3d7ce12c_autoChange.m3u8?auth_key=1791478104-0-0-7ac3d12a59852f761c59c8ee4f346a1d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80" group-title="Football",2026-10-08 19:15 | Thể Công - Viettel vs Hồng Lĩnh Hà Tĩnh | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14360778_22d75c31a012d5dbe76fe86ab94779d8_autoChange.m3u8?auth_key=1791478103-0-0-79090e22098ea2bb712f6a15b0c9da88
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/05e87b1dbb904915a4a97fc095b73d20.png!w80" group-title="Football",2026-10-08 20:10 | CLB Al Ahli vs Dubai Hoa Kỳ | BLV BLV STING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -539,6 +527,18 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80" group-title="Football",2026-10-10 20:30 | FC Augsburg vs FC Bayern München | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80" group-title="Football",2026-10-10 20:30 | Paderborn vs VfB Stuttgart | BLV BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/903089d338485f6c68fbc5da690a0628.png!w80" group-title="Football",2026-10-10 20:30 | 1. FSV Mainz 05 vs Bayer 04 Leverkusen | BLV BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lion-city-sailors-fc-8007" group-title="Đang phát" , 08-10-2026 18:30 ⚽ Lion City Sailors FC vs Công an Hà Nội [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MjA0NzQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmk1ZGhsd2NwcmJiazI0ZzduMmk2ZmJzNw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/port-fc-5461" group-title="Đang phát" , 08-10-2026 19:00 ⚽ Port FC vs Persib [LIVE] (TRÚC BẠCH)
