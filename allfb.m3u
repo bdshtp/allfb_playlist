@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe54ger6o.png" group-title="Gavang",09/10 07:30 | Fluminense - RJ vs Coritiba SAF - PR
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyzj6qvy.png" group-title="Gavang",09/10 09:00 | International San Carlos vs Municipal Pérez Zeledón
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h6z5dwmoj.png" group-title="Gavang",09/10 12:00 | Daejeon Hana Citizen vs Jeonbuk Hyundai Motors
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl2elomoe.png" group-title="Gavang",09/10 14:30 | Gangwon FC vs Bucheon FC 1995
@@ -103,38 +101,28 @@ https://live2.zktsva.app/live/432017.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whw4e97ryo.png" group-title="Gavang",10/10 23:30 | FC Barcelona vs Getafe
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyzj6qvy.png" group-title="Gavang",11/10 04:00 | International San Carlos vs Municipal Pérez Zeledón
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="Football",2026-10-09 07:30 | Palmeiras vs Bahia | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/66887044_d2aabbdd7f62ebc4ab039c237c92f2cd_autoChange.m3u8?auth_key=1791521693-0-0-010f6b6b1c2c7061d2149c0b60db683b
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80" group-title="Football",2026-10-09 06:05 | Atletico Nacional vs Deportes Tolima | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72335098_02db2115d6a8db70990a3db66343780f_autoChange.m3u8?auth_key=1791521693-0-0-a0e158d9b2e41cc9f12f77bb2a0bfe78
+https://live.dyrur1.com/live/66887044_d2aabbdd7f62ebc4ab039c237c92f2cd_autoChange.m3u8?auth_key=1791524719-0-0-b6b446baa2817b7f5a88aaaf7d343bb1
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80" group-title="Football",2026-10-09 07:30 | Fluminense RJ vs Coritiba | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/66887038_7e3a2403a0d24517d0612d18d83bc286_autoChange.m3u8?auth_key=1791521693-0-0-6e93b5119902be9a9ed52e4fd21a9378
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png!w80" group-title="Football",2026-10-09 06:00 | Cleveland Cavaliers vs Đội bóng rổ Boston Celtics | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/73323516_e6a06cf26b6b6ed250503941c38e5027_autoChange.m3u8?auth_key=1791521693-0-0-a84da6168692703b8b1eb67e926ae494
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80" group-title="Football",2026-10-09 06:00 | Athletico-PR vs CLB Atletico Mineiro | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/66887052_f9919b13f1e5574283001864489ef97d_autoChange.m3u8?auth_key=1791521693-0-0-2e8feb596a852fd90f5314ecb9375056
+https://live1.dyrur1.com/live/66887038_7e3a2403a0d24517d0612d18d83bc286_autoChange.m3u8?auth_key=1791524719-0-0-e3eaefad516932bcafc9ddc2c225a9f4
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Football",2026-10-09 06:30 | New York Knicks vs Washington Wizards | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/73863882_340173fc46a67d052a49809e319e9d0a_autoChange.m3u8?auth_key=1791521694-0-0-02e54d804f63fb2e3fd8d0131e4f3bc4
+https://live2.dyrur1.com/live/73863882_340173fc46a67d052a49809e319e9d0a_autoChange.m3u8?auth_key=1791524719-0-0-e86189e542d0e18589697b773510483c
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" group-title="Football",2026-10-09 07:00 | San Antonio Spurs vs Atlanta Hawks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/527rjsw28l3h4ke_4cf651b1711a1f6c8dd9bff74450d84b_autoChange.m3u8?auth_key=1791521693-0-0-1cdcc5940892ff6ed489dca7f101683a
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/96f56d32d59119eb9bf3cab69e9a19f8.png!w80" group-title="Football",2026-10-09 08:00 | Alebrijes de Oaxaca vs Correcaminos | BLV BLV FANTA
+https://live.dyrur1.com/live/527rjsw28l3h4ke_4cf651b1711a1f6c8dd9bff74450d84b_autoChange.m3u8?auth_key=1791524719-0-0-6e0fd403ac4688e99a15c3d0172f9e22
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/96f56d32d59119eb9bf3cab69e9a19f8.png!w80" group-title="Football",2026-10-09 08:00 | Alebrijes de Oaxaca vs Correcaminos | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.meung.app/live/16226575_tsc.m3u8
+https://live.dyrur1.com/live/72661696_87c0ec2fe8551bc8f4bbece1963394c6_autoChange.m3u8?auth_key=1791524719-0-0-8e6b2b0feca227e9a7519e8b1bdbb10b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/fc2983212373493c10636dc641310eea.png!w80" group-title="Football",2026-10-09 09:00 | International San Carlos vs Perez Zeledon | BLV BLV SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -475,12 +463,6 @@ https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="Sắp diễn ra" , 09-10-2026 12:30 ⚽ Santos FC vs Flamengo (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/santos-flamen-brasa/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/1f97cd7e-fbbb-48f0-b8cd-b1d8cac57b6e" group-title="Sắp diễn ra" , 09-10-2026 13:00 ⚽ Atletico Paranaense vs Atlético Mineiro (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/para-mine-brasa/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 09-10-2026 13:05 ⚽ Atletico Nacional Medellin vs Deportes Tolima (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/mdellin-tolima-cate/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6563d0c2-4a39-46d4-b1a9-4ac1c23b3d5a" group-title="Sắp diễn ra" , 09-10-2026 14:30 ⚽ Palmeiras vs Bahia (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/palme-bahia-brasa/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Sắp diễn ra" , 09-10-2026 15:10 ⚽ Fortaleza F.C vs Millonarios (NGƯỜI NẶN)
