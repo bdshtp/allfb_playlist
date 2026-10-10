@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkd20yrz8.png" group-title="Gavang",10/10 12:00 | Cerezo Osaka vs Yokohama F. Marinos
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv3538md7.png" group-title="Gavang",10/10 12:00 | FC Seoul vs Jeju SK FC
-https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheol9jr6o.png" group-title="Gavang",10/10 13:00 | FC Tokyo vs Urawa Red Diamonds
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwl7x2ryo.png" group-title="Gavang",10/10 13:00 | Avispa Fukuoka vs Fagiano Okayama
@@ -160,27 +156,27 @@ https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80" group-title="Football",2026-10-10 12:00 | CLB Omiya Ardija vs Vanraure | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/72151210_8388a2514609066cb40182b49e4b62ac_autoChange.m3u8?auth_key=1791625097-0-0-e0d02d9e513fc26254688932e01f7c1a
+https://live3.dyrur1.com/live/72151210_8388a2514609066cb40182b49e4b62ac_autoChange.m3u8?auth_key=1791629328-0-0-4c8b23e4f40d07a9f9e9f09e564bba3c
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="Football",2026-10-10 12:00 | Cerezo Osaka vs Yokohama F. Marinos | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72149770_077bf8a22b769368f322801f849e2a22_autoChange.m3u8?auth_key=1791625096-0-0-85b50bd5e4dc5d00deec2b5ace910a20
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-10 12:00 | KCC Egis vs Wonju Dongbu Promy | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/73657442_f60ae0ee2951bdb078a96a7007b10990_autoChange.m3u8?auth_key=1791625098-0-0-14a418db971ee957dd489798e58b9b63
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80" group-title="Football",2026-10-10 12:00 | CLB Seoul vs Jeju Utd | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/67817900_141ec342aa58f38a67c9c72bbc729876_autoChange.m3u8?auth_key=1791625096-0-0-995c50e6b11f9068ffc45ce7f2455f54
+https://live1.dyrur1.com/live/72149770_077bf8a22b769368f322801f849e2a22_autoChange.m3u8?auth_key=1791629328-0-0-c24880c653c0102c808a8d752e0fe9e4
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png!w80" group-title="Football",2026-10-10 13:00 | Avispa Fukuoka vs Fagiano Okayama | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/72149772_f58e0875259235b19caa1663358aa4ee_autoChange.m3u8?auth_key=1791629329-0-0-2a272477ca4402c1e5c1280f7e7f88dc
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Football",2026-10-10 12:00 | KCC Egis vs Wonju Dongbu Promy | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live3.dyrur1.com/live/73657442_f60ae0ee2951bdb078a96a7007b10990_autoChange.m3u8?auth_key=1791629329-0-0-feb229eae78cf6d1b1db00b25bb1d2cc
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80" group-title="Football",2026-10-10 12:00 | CLB Seoul vs Jeju Utd | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live2.dyrur1.com/live/67817900_141ec342aa58f38a67c9c72bbc729876_autoChange.m3u8?auth_key=1791629328-0-0-427fa5001c27737f92cbac426748fc25
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80" group-title="Football",2026-10-10 13:00 | CLB Tokyo vs Urawa Reds | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72149762_d7b4d075f7c9ca64cd6ab76df15c3b79_autoChange.m3u8?auth_key=1791629329-0-0-ae5951a578e7cb5824c3619d797f185c
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Football",2026-10-10 14:30 | Mobis Phoebus vs Incheon | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -563,8 +559,6 @@ https://cdnhls.xbdbotv.live/live/MTk4ODQ0MDg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmN
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdqMnpzcjNjY2tzbHdnbHR4Znd4ejd3Yw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Đang phát" , 10-10-2026 17:00 ⚽ Kyoto Sanga vs Machida Zelvia [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MTkwOTM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omh4cmdzNWFvZDBnNmtreWZ1eGhsb3J3OQ/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="Sắp diễn ra" , 10-10-2026 17:00 ⚽ Tigres UANL vs Toluca (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/tigres-toluca-mexliga/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thep-xanh-nam-inh-18518" group-title="Đang phát" , 10-10-2026 18:00 ⚽ Thép Xanh Nam Định vs Ninh Bình [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhzcGd4cHBiOWZxZXhxbXlia3R5NnFjaw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 10-10-2026 18:30 ⚽ Arsenal vs Leeds United [LIVE] (SAPPORO)
