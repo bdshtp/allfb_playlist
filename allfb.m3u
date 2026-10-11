@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1j7pgq0j.png" group-title="Gavang",11/10 23:00 | Sassuolo vs AC Milan
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghg9174q82.png" group-title="Gavang",11/10 23:30 | Real Betis vs CA Osasuna
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghly316moe.png" group-title="Gavang",12/10 00:00 | Benfica vs Vitoria Guimaraes
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhv9dn7md7.png" group-title="Gavang",12/10 01:00 | Al Shabab vs Al Taawoun
@@ -56,7 +52,7 @@ https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnpx74qvy.png" group-title="Gavang",13/10 00:00 | Malmo FF vs Kalmar
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9whwjdejryo.png" group-title="Gavang",13/10 01:15 | Al Nassr vs Neftchi Fergana
-https://live2.zktsva.app/live/301238.m3u8
+https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgn22vq82.png" group-title="Gavang",13/10 01:15 | Al-Gharafa Sports Club vs Esteghlal Tehran
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4z5y8r8k.png" group-title="Gavang",13/10 01:15 | Al Quwa Al Jawiya vs Al-Ain FC
@@ -101,42 +97,26 @@ https://live2.zktsva.app/live/307240.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw6lwq1z.png" group-title="Gavang",13/10 23:45 | Sabah Baku vs SK Slavia Praha
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="Football",2026-10-11 23:00 | U.S. Sassuolo Calcio vs AC Milan | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/71945302_e4d2db57f7be1b9f1667bd922190a70e_autoChange.m3u8?auth_key=1791754908-0-0-39fe4eb19bcaed19e2cebb8846d6035f
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80" group-title="Football",2026-10-11 23:30 | Real Betis Balompié vs Osasuna | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/69759ig48y0hgk2_f597796bdd8b2cce53b2b64b9bc1e40a_autoChange.m3u8?auth_key=1791754906-0-0-0a43a271e059315450ab51b18d87dd7a
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" group-title="Football",2026-10-11 23:00 | Midtjylland vs FC Copenhagen | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/71925036_3b00cf35681e647f8fd51d4f22ff78e2_autoChange.m3u8?auth_key=1791754908-0-0-d95bcfcdd26e90a4bb0a066418a7f1ca
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/83ba0474d144e49f060789cfa904e226.png!w80" group-title="Football",2026-10-11 23:00 | Besiktas JK vs CLB Kocaelispor | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/72723246_3f669ad2dc03449ffa0ad314ef120faa_autoChange.m3u8?auth_key=1791754909-0-0-a78a68b9e093ce1edb9cc4ca8b531ca1
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80" group-title="Football",2026-10-12 00:00 | Benfica vs Vitoria Guimaraes | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72530962_a4a9e29705705e3ebf8a7a10441acde6_autoChange.m3u8?auth_key=1791754907-0-0-31d0e2428058172ac42d81f80db5aa0f
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="Football",2026-10-12 00:45 | CLB San Lorenzo vs Dep. Riestra | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73265384_cc447093145f1422ff49bf556b2a6aab_autoChange.m3u8?auth_key=1791754908-0-0-38b385e3771cd71c80e50e0e5dcae980
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png!w80" group-title="Football",2026-10-12 01:00 | Al-Shabab vs Al-Taawoun | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/dba65c184e03c860ed919ce192b86c5e.png!w80" group-title="Football",2026-10-12 01:45 | CLB Cagliari vs Juventus F.C. | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/71945288_cdc526cadb3ee3b6c614b223ce35a87f_autoChange.m3u8?auth_key=1791758788-0-0-caaa410147e78438966e8f8b3dcdaccd
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80" group-title="Football",2026-10-12 00:00 | Benfica vs Vitoria Guimaraes | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/72530962_a4a9e29705705e3ebf8a7a10441acde6_autoChange.m3u8?auth_key=1791758786-0-0-35d63060cc3d9514b3ca3f97547b7ab2
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="Football",2026-10-12 00:45 | CLB San Lorenzo vs Dep. Riestra | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live.dyrur1.com/live/73265384_cc447093145f1422ff49bf556b2a6aab_autoChange.m3u8?auth_key=1791758787-0-0-47566152ae5f878eed723f6ea8703a54
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png!w80" group-title="Football",2026-10-12 01:00 | Al-Shabab vs Al-Taawoun | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live4.dyrur1.com/live/73215764_0ffd9298fe44d6bc4b8752e436d03e57_autoChange.m3u8?auth_key=1791758787-0-0-07cbe8737a65d27109995596f00f1288
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/951a522c131e8d2a0a32185858ba6300.png!w80" group-title="Football",2026-10-12 01:45 | Troyes AC vs Olympique de Marseille | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/72036218_7a77971b613ab2ff1cddf55c728438ec_autoChange.m3u8?auth_key=1791758788-0-0-a507c960211ce92540861bbbadcfc40d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80" group-title="Football",2026-10-12 02:00 | CLB Racing Santander vs Valencia CF | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -413,8 +393,6 @@ https://live05.zhwpg.app/live/78905744_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/08552895_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Đang phát" , 11-10-2026 21:15 ⚽ Real Sociedad vs Deportivo La Coruña [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om1pdmJsZGw4N2Zmbm1wZW9tM3Job282ZA/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 11-10-2026 22:30 ⚽ Liverpool vs Manchester City [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1tMXN3eTF0dmptdGswbWp6dnhpczk1ag/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 11-10-2026 22:30 ⚽ Liverpool vs Manchester City [LIVE] (SAPPORO)
@@ -429,12 +407,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1NjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnV
 https://cdnhls.xbdbotv.live/live/MTk3MTU1ODQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnE0ZjEwenZ4NW5tcXc5c3dnajZmMnN4Yg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 12-10-2026 02:00 ⚽ Racing Santander vs Valencia [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNxMHNnYmt5bHgxZDZiZTlubDk0cWZ1Yg/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ Liverpool vs Manchester City (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/liv-mnc-prem-cat/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ Liverpool vs Manchester City (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/liv-mnc-prem-bac/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/132c5788-2e76-47eb-bac8-84812fadfd5e" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ SC Freiburg vs Schalke 04 (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/frei-shalke-bun/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/9e22f469-4344-47d8-b686-f75bdb3943db" group-title="Sắp diễn ra" , 12-10-2026 06:00 ⚽ Sassuolo vs AC Milan (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/sass-acm-seriea/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/402572ca-49c7-4139-aa30-b8a0457e47b9" group-title="Sắp diễn ra" , 12-10-2026 06:30 ⚽ Real Betis vs CA Osasuna (NGƯỜI CÁO)
