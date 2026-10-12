@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnyz2nqvy.png" group-title="Gavang",12/10 08:15 | Pumas U.N.A.M. vs Cruz Azul
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6gwkjq86.png" group-title="Gavang",12/10 15:00 | Guangzhou Dandelion Alpha vs Shanghai Second
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61041q86.png" group-title="Gavang",12/10 15:00 | Ho Chi Minh City B Women vs Than KSVN Women
@@ -81,18 +79,30 @@ https://live2.zktsva.app/live/307240.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohlw6lwq1z.png" group-title="Gavang",13/10 23:45 | Sabah Baku vs SK Slavia Praha
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80" group-title="Football",2026-10-12 08:15 | U.N.A.M.- Pumas vs Cruz Azul | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/72055226_83bc559002f3473490ccec352d1999b4_autoChange.m3u8?auth_key=1791787332-0-0-4b2062e27dc6365d4842a9e932220a23
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" group-title="Football",2026-10-12 08:15 | CLB America de Cali vs Medellin Independiente | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72335192_681f00836a0ec1e3217dc0f24aa3de1d_autoChange.m3u8?auth_key=1791787332-0-0-52814b8f8a28f323b0bc41e355d86518
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="Football",2026-10-12 08:00 | Denver Nuggets vs Chicago Bulls | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/73864162_2660a49c7859fbed9d6fc834e8e05572_autoChange.m3u8?auth_key=1791787332-0-0-f07eb81960b95f14aae8f1ddd3008e47
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjl586m2w.png" group-title="Gavang",14/10 01:15 | Al Ittihad vs Shabab Al Ahli
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn6elnqvy.png" group-title="Gavang",14/10 01:45 | Bristol City vs Blackburn Rovers
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg5pnxrep.png" group-title="Gavang",14/10 02:00 | Arsenal vs LOSC Lille
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h6jp26q86.png" group-title="Gavang",14/10 02:00 | Atletico Madrid vs Manchester United
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6e1pwqg8.png" group-title="Gavang",14/10 02:00 | Galatasaray vs FC Barcelona
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxly0qdy.png" group-title="Gavang",14/10 14:45 | Melbourne Victory vs FC Seoul
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7v122q1z.png" group-title="Gavang",14/10 16:30 | Yokohama FC vs Urawa Red Diamonds
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9767qo9.png" group-title="Gavang",14/10 17:00 | Vissel Kobe vs Jeonbuk Hyundai Motors
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn80ekm0v.png" group-title="Gavang",14/10 17:00 | Kashiwa Reysol vs Port FC
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh8v03wqwz.png" group-title="Gavang",14/10 19:15 | Persib Bandung vs The Cong-Viettel
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh524j8ql0.png" group-title="Gavang",14/10 20:45 | Nasaf Qarshi vs Al Wahda(UAE)
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9y63qo9.png" group-title="Gavang",14/10 23:45 | LASK Linz vs Liverpool
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/69d796093df94d0b2b4ce1a5d2551df0.png!w80" group-title="Football",2026-10-12 15:00 | Guangzhou Dandelion Alpha FC vs Thượng Hải Saigenda | BLV BLV MONSTER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
