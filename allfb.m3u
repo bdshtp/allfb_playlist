@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnxly0qdy.png" group-title="Gavang",14/10 14:45 | Melbourne Victory vs FC Seoul
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7v122q1z.png" group-title="Gavang",14/10 16:30 | Yokohama FC vs Urawa Red Diamonds
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx9767qo9.png" group-title="Gavang",14/10 17:00 | Vissel Kobe vs Jeonbuk Hyundai Motors
@@ -77,18 +75,14 @@ https://live2.zktsva.app/live/294335.m3u8
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1wn4yq0j.png" group-title="Gavang",15/10 23:45 | CS Universitatea Craiova vs Getafe
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="Football",2026-10-14 14:45 | Melbourne Victory vs CLB Seoul | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live2.dyrur1.com/live/14346228_d148e5dbc36bcee5beb1d0e18a12002d_autoChange.m3u8?auth_key=1791983002-0-0-1f61e78e0209fa4ddd3cc4994868011c
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Football",2026-10-14 15:30 | Sydney vs New Zealand Breakers | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/13988169_bfb5ad868ccd6d2c3ca42c63562a2e66_autoChange.m3u8?auth_key=1791983002-0-0-fb79d556e4dc1ec34b4084808142ba1a
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png!w80" group-title="Football",2026-10-14 16:30 | Yokohama FC vs Urawa Reds | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14521447_c3a404e53605cd36fe9871d3aeddb794_autoChange.m3u8?auth_key=1791986287-0-0-05a835d59cb8534defbeb2f77cf5d672
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="Football",2026-10-14 15:30 | Sydney vs New Zealand Breakers | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/13988169_bfb5ad868ccd6d2c3ca42c63562a2e66_autoChange.m3u8?auth_key=1791986287-0-0-6154513c8df1b6b16cacb76b7aa89d1f
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/ac6989e16cbd3e3a5c5aee60eb94206a.png!w80" group-title="Football",2026-10-14 17:00 | Gainare Tottori vs Cerezo Osaka | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -96,11 +90,11 @@ https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80" group-title="Football",2026-10-14 17:00 | Kashiwa Reysol vs Port FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.dyrur1.com/live/14338876_ca665cf3f6e75b7e7009aed374aeb28b_autoChange.m3u8?auth_key=1791986288-0-0-45c57ce6ab995c24329d2630aa535f8f
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="Football",2026-10-14 17:00 | Vissel Kobe vs CLB Jeonbuk Hyundai Motors | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/14338877_73d59161837cf1999446150990b24cae_autoChange.m3u8?auth_key=1791986288-0-0-8fcd86e048bd5f30d6a0ad124fb53b71
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" group-title="Football",2026-10-14 17:00 | Yokohama F. Marinos vs Shimizu S-Pulse | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -113,10 +107,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80" group-title="Football",2026-10-14 17:00 | Incheon vs Busan KTF Sonicboom | BLV 
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/9/90/Daegu_KOGAS_Pegasus.svg/1920px-Daegu_KOGAS_Pegasus.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Football",2026-10-14 17:00 | KoGas vs Suwon KT | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live05.zhwpg.app/live/19919577_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9ce69393552848534795ef4af4562f20.png!w80" group-title="Football",2026-10-14 17:00 | Matsumoto Yamaga FC vs Sanfrecce Hiroshima | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -161,10 +155,10 @@ https://live05.zhwpg.app/live/33982309_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/14707124_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80" group-title="Football",2026-10-14 23:00 | Al Jazira vs FC bạn bè | BLV BLV SPRITE
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80" group-title="Football",2026-10-14 23:00 | Al Jazira vs FC bạn bè | BLV BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/75748097_tsc.m3u8
+https://live05.zhwpg.app/live/59444581_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5d33f831f779428858138d28c9dd4480.png!w80" group-title="Football",2026-10-14 23:45 | LASK Linz vs Liverpool | BLV BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -253,10 +247,10 @@ https://live05.zhwpg.app/live/02456966_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/99121525_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80" group-title="Football",2026-10-15 08:30 | Real Salt Lake vs San Jose Earthquakes | BLV BLV HỔ VẰN
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80" group-title="Football",2026-10-15 08:30 | Real Salt Lake vs San Jose Earthquakes | BLV BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/07428422_tsc.m3u8
+https://live05.zhwpg.app/live/16226575_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80" group-title="Football",2026-10-15 09:30 | CLB LA Galaxy vs Portland Timbers | BLV BLV GIÀ LÀNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -477,6 +471,10 @@ https://live05.zhwpg.app/live/82054853_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/07808742_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/3623712f3a18880ded3e0a4034b31525.png!w80" group-title="Football",2026-10-16 23:30 | Energie Cottbus vs Nurnberg | BLV BLV SPRITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.zhwpg.app/live/75748097_tsc.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Đang phát" , 14-10-2026 14:45 ⚽ Melbourne Victory vs Seoul [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4NjIzNDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Ong5Y2IxNXpsbzNvYWU5dnhmanMwdmxobw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/4797bd0a-9e94-489b-907b-1fb0ab1c39c9" group-title="Sắp diễn ra" , 14-10-2026 15:30 ⚽ Millonarios vs Deportiva Once Caldas (NGƯỜI SÓI)
@@ -491,8 +489,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcwMjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc
 https://cdnhls.xbdbotv.live/live/MTk4NjIzNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnZiZWwyemVybHhtY3Q0a2E3NWduOGwycg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="Sắp diễn ra" , 14-10-2026 21:45 ⚽ Melbourne Victory vs FC Seoul (NGƯỜI PHÁO)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/d37f99e42d5d4f017f7336c6a9eb4cdd/manifest/video.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="Sắp diễn ra" , 14-10-2026 21:45 ⚽ Melbourne Victory vs FC Seoul (BLV Casting)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/978c5b56dc22f6ab2a92264805dc973a/manifest/video.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/6bcb9af1-12f6-44b2-a7d9-931caacdc13a" group-title="Sắp diễn ra" , 14-10-2026 23:30 ⚽ Yokohama FC vs Urawa Red Diamonds (NGƯỜI THỎ)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/a6b53e51ed9f3698f8ababbb3366d215/manifest/video.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lask-linz-3369" group-title="Đang phát" , 14-10-2026 23:45 ⚽ LASK Linz vs Liverpool [LIVE] (TÔM CHIÊN)
