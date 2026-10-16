@@ -104,11 +104,11 @@ https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80" group-title="Football",2026-10-16 06:00 | Huracan vs CLB Gimnasia La Plata | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live1.dyrur1.com/live/14566323_4c2fcf8d800a03f19e7e004186aba466_autoChange.m3u8?auth_key=1792122600-0-0-b6e6db2df215528a1237b0964e15fe9b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Football",2026-10-16 06:30 | New York Knicks vs Toronto Raptors | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14302454_dae31aa6cc9e69c9735d72e5357eb061_autoChange.m3u8?auth_key=1792122600-0-0-fe800522f94be6974046d8d2f7ec9ec1
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="Football",2026-10-16 07:30 | Houston Rockets vs Oklahoma City Thunder | BLV BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -465,10 +465,6 @@ https://live05.zhwpg.app/live/16226575_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/99121525_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/96a1a623-2198-4fc9-8e0b-4d1304ac4d68" group-title="Sắp diễn ra" , 16-10-2026 10:00 ⚽ Independiente del Valle Women vs Belgrano Women (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/vallew-belw-copaw/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/38bd56da-aaf6-4543-8728-80c3e30568ba" group-title="Sắp diễn ra" , 16-10-2026 12:15 ⚽ Deportivo Rionegro vs Patriotas FC (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/rione-patriot-col2nd/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/ae48c62a-870a-4055-ad06-13cf5dafdbd8" group-title="Sắp diễn ra" , 16-10-2026 13:00 ⚽ CA Huracan vs Gimnasia La Plata (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/huracan-gimna-argdiv1/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://biaomtv.link/wp-json/s8-image/2026c8b8-eb4d-4c3f-ab85-45382795de23" group-title="Sắp diễn ra" , 16-10-2026 14:30 ⚽ Estudiantes La Plata vs Flamengo (NGƯỜI NẶN)
