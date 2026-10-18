@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1n851q0j.png" group-title="Gavang",18/10 15:30 | Dong Tam Long An vs Khatoco Khanh Hoa
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgzn94r51.png" group-title="Gavang",18/10 17:30 | Udinese vs Lecce
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh99l58m7v.png" group-title="Gavang",18/10 18:00 | Beijing Guoan vs Qingdao West Coast
@@ -83,22 +81,14 @@ https://live2.zktsva.app/live/300523.m3u8
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/ednm9wh58e61ryo.png" group-title="Gavang",19/10 23:55 | Al-Jahra vs Kazma
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80" group-title="Football",2026-10-18 15:30 | Đồng Tâm Long An vs Khánh Hòa | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14360406_4c0ead53daf025f90b9e9521df80f6f2_autoChange.m3u8?auth_key=1792331615-0-0-a9f9aa3a3cced309dedfdadc73d70882
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80" group-title="Football",2026-10-18 17:00 | Wuhan Three Towns vs Shanghai Shenhua | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.dyrur1.com/live/13599180_b704f1eebe48719aa7136b6905ed1230_autoChange.m3u8?auth_key=1792331617-0-0-638d5d867eb47aac27a44b4a29c5e683
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80" group-title="Football",2026-10-18 17:30 | Udinese Calcio vs U.S. Lecce | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80" group-title="Football",2026-10-18 18:00 | Beijing Guoan vs Qingdao West Coast | BLV 
+https://live2.dyrur1.com/live/13978103_7074425e64b088ae81f6c5cafc3b05a8_autoChange.m3u8?auth_key=1792335133-0-0-002d52cd7ab5efa84555dd614d5e3881
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80" group-title="Football",2026-10-18 17:00 | Wuhan Three Towns vs Shanghai Shenhua | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live4.dyrur1.com/live/13599180_b704f1eebe48719aa7136b6905ed1230_autoChange.m3u8?auth_key=1792335131-0-0-b2e3e7a14efaea1bffe74e6efd5a5002
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80" group-title="Football",2026-10-18 18:00 | Phu Dong Ninh Binh vs Hoàng Anh Gia Lai | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -107,6 +97,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/59444581_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80" group-title="Football",2026-10-18 18:00 | Beijing Guoan vs Qingdao West Coast | BLV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live1.dyrur1.com/live/13599181_14bfe4d65f2ed00a277e6aa9bb029f86_autoChange.m3u8?auth_key=1792335128-0-0-ad10a475152d8c14073d4be3027d978e
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" group-title="Football",2026-10-18 18:30 | CLB Bielefeld vs VfL Osnabruck | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -469,12 +463,11 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxNDE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om9
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNDM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl2ZjhnZDFkM2N2cmFtZ3VtZ3RuNWUwaQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/leeds-united-71" group-title="Đang phát" , 18-10-2026 20:00 ⚽ Leeds United vs Manchester United [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnc2ZDk5bG9vbnNqeGxkeDBvYXBtcHhvcA/index.m3u8
-#EXTINF:-1 group-title="Source 3" , 18-10-2026 21:00 ⚽ Machida Zelvia vs Avispa Fukuoka (NGƯỜI THỎ)
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/celta-de-vigo-36" group-title="Đang phát" , 18-10-2026 21:15 ⚽ Celta Vigo vs Deportivo Alavés [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8wNjBqYXFkZTM1M3BwYm5ibGszbGExMg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nottingham-forest-63" group-title="Đang phát" , 18-10-2026 22:30 ⚽ Nottingham Forest vs Arsenal [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm51NGIxcjBhbGZ3ZzEzOHltZTBsZGNrdA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Đang phát" , 18-10-2026 23:00 ⚽ Milan vs Atalanta [LIVE] (SAPPORO)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Đang phát" , 18-10-2026 23:00 ⚽ Milan vs Atalanta [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm16cjEwYTJraGltNHhtb295ODA2NXEwag/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" group-title="Đang phát" , 18-10-2026 23:30 ⚽ Málaga vs Real Sociedad [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm4zZGswZ3ZmbHQ0aW00azNuYWZkNzR3bQ/index.m3u8
