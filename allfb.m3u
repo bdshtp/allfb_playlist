@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlg79ymoe.png" group-title="Gavang",20/10 07:15 | Deportivo Riestra vs Club Atlético Unión
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjez10m2w.png" group-title="Gavang",20/10 08:05 | Deportivo Pasto vs Alianza Fútbol Club
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvjy0jmd7.png" group-title="Gavang",20/10 15:30 | Isenmulang Kalteng vs Java United F.C.
@@ -80,31 +78,27 @@ https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/b9eb3a2ccc44b65d7bd365ad417ddb04.png!w80" group-title="Football",2026-10-20 07:15 | Dep. Riestra vs Union de Santa Fe | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13397564_c7dbe7e1b13120fab14e3369dc255c4f_autoChange.m3u8?auth_key=1792470594-0-0-0a4a96402c25d2d24522c6c01f280b26
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/aa4d61da1df31972e52e1e62f90ec558.png!w80" group-title="Football",2026-10-20 06:00 | CLB Corinthians Paulista vs CLB Vitoria BA | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13391494_38dbb07a80c6b61d5a22fa6d50cf87e7_autoChange.m3u8?auth_key=1792470594-0-0-41377db1d6c8dfc8efa9a3a1d216caf8
+https://live.dyrur1.com/live/13397564_c7dbe7e1b13120fab14e3369dc255c4f_autoChange.m3u8?auth_key=1792476264-0-0-661bf500763eab49699e9107a301f622
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="Football",2026-10-20 07:00 | Golden State Valkyries vs Atlanta Dream | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14498209_d5e49fbb9193dfefa2a7b154b88a198a_autoChange.m3u8?auth_key=1792470594-0-0-ccea80fab6af8c30898bc087924c0fde
+https://live.dyrur1.com/live/14498209_d5e49fbb9193dfefa2a7b154b88a198a_autoChange.m3u8?auth_key=1792476264-0-0-e0de50e0c4048859800b538d9a12ec7b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/9fbd48de1577477753873c539c3ab106.png!w80" group-title="Football",2026-10-20 08:05 | Dep. Pasto vs CLB Alianza Petrolera | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/13975500_b5d65442193f1465bd52701ea330077b_autoChange.m3u8?auth_key=1792476264-0-0-f228c5c6b009dbd9e120ed50055bfb98
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/0604e2ebbd9f4650cea0491167ecbd32.png!w80" group-title="Football",2026-10-20 09:00 | Escorpiones Belen vs Puntarenas | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14186435_489d78438d24c4a2a18ef57bd1341afc_autoChange.m3u8?auth_key=1792476264-0-0-1d347dd03fe7864ff1e2648b5e6fed95
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/c8fc1bb845b85502f27270af01647337.png!w80" group-title="Football",2026-10-20 15:30 | Adhyaksa FC Banten vs Malut United | BLV BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/75748097_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/44c1dadc2be145799eebb39b4dc72984.png!w80" group-title="Football",2026-10-20 17:00 | FK Olympic Tashkent B vs Yaypan FK | BLV BLV 7UP
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/football/team/44c1dadc2be145799eebb39b4dc72984.png!w80" group-title="Football",2026-10-20 17:00 | FK Olympic Tashkent B vs Yaypan FK | BLV BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.zhwpg.app/live/78905744_tsc.m3u8
+https://live05.zhwpg.app/live/16226575_tsc.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Football",2026-10-20 17:00 | Seoul Knights vs Anyang KGC | BLV BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -333,8 +327,6 @@ https://live05.zhwpg.app/live/08552895_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.zhwpg.app/live/07428422_tsc.m3u8
-#EXTINF:-1 group-title="Source 3" , 20-10-2026 12:00 ⚽ Club Atlético Newell's Old Boys vs CA Central Cordoba SDE (NGƯỜI SÓI)
-#EXTINF:-1 group-title="Source 3" , 20-10-2026 13:00 ⚽ Corinthians vs Vitoria (NGƯỜI NẶN)
 #EXTINF:-1 group-title="Source 3" , 20-10-2026 15:05 ⚽ Deportivo Pasto vs Alianza Fútbol Club (NGƯỜI NẶN)
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bhayangkara-5631" group-title="Đang phát" , 20-10-2026 19:00 ⚽ Bhayangkara vs PSIM Yogyakarta [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4MTM1Mjk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmsxdmsyeGlqaXlkZHNrbDFsdmF2ZDdrNA/index.m3u8
