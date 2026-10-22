@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y0or5jh82y44qwz.png" group-title="Gavang",22/10 15:30 | Persatuan sepak bola Indonesia Kediri vs PSS Sleman
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvx84kmd7.png" group-title="Gavang",22/10 17:00 | Van Hien University vs Dong Thap
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhydn2nryk.png" group-title="Gavang",22/10 18:00 | Xuan Thien Phu Tho vs PVF-CAND FC
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/3glrw7hnv21yqdy.png" group-title="Gavang",22/10 19:00 | Madura United vs Persib Bandung
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnlpwvm0v.png" group-title="Gavang",22/10 19:15 | Cong An Ha Noi FC vs CLB Thanh Hoa
@@ -78,23 +82,23 @@ https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80" group-title="Football",2026-10-22 15:30 | PSM Makassar vs Persebaya | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/14302318_05f7f101400a8ebdfca9408479b744c6_autoChange.m3u8?auth_key=1792672265-0-0-93171b5feeb7d18d58e67369d923c641
+https://live.dyrur1.com/live/14302318_05f7f101400a8ebdfca9408479b744c6_autoChange.m3u8?auth_key=1792678116-0-0-c7d22c6ae43724a4a53132d43e7db2df
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="Football",2026-10-22 15:30 | CLB Persik Kediri vs CLB PSS Sleman | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/14302317_2a41b26e2f7de6ba5c7fecb9fd97565f_autoChange.m3u8?auth_key=1792672265-0-0-8cf9865bf6e1686bb26e683fbfc821e7
+https://live1.dyrur1.com/live/14302317_2a41b26e2f7de6ba5c7fecb9fd97565f_autoChange.m3u8?auth_key=1792678116-0-0-389ecb8f4634951b66bdde63ed5ff978
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/4eceaeddae174577aa2aed681907c7f7.png!w80" group-title="Football",2026-10-22 15:30 | Illawarra Hawks vs Sydney | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/13988161_232fa9de390f0d5e09e2b01a047b43c2_autoChange.m3u8?auth_key=1792671950-0-0-0205afa4dc7390f76c2c8ab834e98608
+https://live3.dyrur1.com/live/13988161_232fa9de390f0d5e09e2b01a047b43c2_autoChange.m3u8?auth_key=1792678116-0-0-60c3a745b135e64f54ccfc0a4b5ff31b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80" group-title="Football",2026-10-22 17:00 | Mobis Phoebus vs LG Sakers | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" group-title="Football",2026-10-22 17:00 | Đại học Văn Hiến vs Đồng Tháp | BLV BLV BÍ ĐAO
+https://live.dyrur1.com/live/14300972_0bda36821f663f69e93ed37f7030a4bd_autoChange.m3u8?auth_key=1792678116-0-0-57bd61a46ca2077eb00710dfbfd1e6a3
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" group-title="Football",2026-10-22 17:00 | Đại học Văn Hiến vs Đồng Tháp | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/99121525_tsc.m3u8
+https://live.dyrur1.com/live/o17pjio5l34sy7j_d5880520da216ed0ce23732ad5bcba10_autoChange.m3u8?auth_key=1792678116-0-0-dca3312010f88db5dee0338b8ad1514d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" group-title="Football",2026-10-22 18:00 | Gia Dinh vs PVF CAND | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
