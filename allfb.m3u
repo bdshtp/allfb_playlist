@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh90zopm7v.png" group-title="Gavang",24/10 16:45 | Akron Togliatti vs Dynamo Moscow
-https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h67wo9moj.png" group-title="Gavang",24/10 18:00 | Dong Nai vs Thep Xanh Nam Dinh FC
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgl6e8rep.png" group-title="Gavang",24/10 18:00 | Hong Linh Ha Tinh vs XM Hai Phong FC
@@ -87,30 +85,26 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6jgl4qg8.png" group-title="Gavang",25/10 23:30 | SC Freiburg vs FC Bayern Munich
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="Football",2026-10-24 16:45 | Akron Togliatti vs Dynamo Moscow | BLV 
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="Football",2026-10-24 18:30 | Aston Villa vs Manchester City | BLV BLV REVIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.dyrur1.com/live/72334388_a59ac1e8b4730b1e9f49d73e0068b57e_autoChange.m3u8?auth_key=1792853717-0-0-7318c2da5da7472d8e03d4e9699a9a40
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-24 17:30 | CLB Eyupspor vs Kasimpasa | BLV 
+https://live05.qioetj.app/live/33982309_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Football",2026-10-24 18:00 | Trường Tươi Đồng Nai vs Thép Xanh Nam Định | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14139726_c288019edc9f8d2e46100d0b23095dad_autoChange.m3u8?auth_key=1792853716-0-0-015542d350529186d14a49841edf224b
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-24 18:00 | Heidenheimer vs Energie Cottbus | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.dyrur1.com/live/14360795_5bf7bdcf7def28addd98c03b22695a5d_autoChange.m3u8?auth_key=1792857294-0-0-bcf638a48ef2ec2ac373ae9eaf29546d
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="Football",2026-10-24 18:00 | Hồng Lĩnh Hà Tĩnh vs CLB XM Hai Phong | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="Football",2026-10-24 18:00 | Trường Tươi Đồng Nai vs Thép Xanh Nam Định | BLV BLV MOUNTAIN DEW
+https://live5.dyrur1.com/live/14360794_3dc294dd2767e4ad5edf4c898cf7b2ed_autoChange.m3u8?auth_key=1792857294-0-0-9a6f46f27dd151fa68716962edcebec2
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80" group-title="Football",2026-10-24 17:30 | CLB Eyupspor vs Kasimpasa | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.qioetj.app/live/87547578_tsc.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="Football",2026-10-24 18:30 | Aston Villa vs Manchester City | BLV 
+https://live3.dyrur1.com/live/14139726_c288019edc9f8d2e46100d0b23095dad_autoChange.m3u8?auth_key=1792857296-0-0-c9380d7ddebd1ea05360c7f35a8df6d1
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/65ee743f20fa7db286fdeda4d33c6980.png!w80" group-title="Football",2026-10-24 18:00 | Heidenheimer vs Energie Cottbus | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live5.dyrur1.com/live/14099718_ff41e028348efd8603219753502091a9_autoChange.m3u8?auth_key=1792857298-0-0-d8699c410368d563372a4b843963cfc9
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="Football",2026-10-24 19:00 | Rayo Vallecano vs Elche | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -487,6 +481,10 @@ https://live05.qioetj.app/live/14707124_tsc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.qioetj.app/live/16226575_tsc.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/112d2346959358934a9daf50169ba7b4.png!w80" group-title="Football",2026-10-26 22:00 | Al Anwar SA vs Al-Okhdood | BLV BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.qioetj.app/live/02456966_tsc.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 24-10-2026 18:30 ⚽ Aston Villa vs Manchester City [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRndHZucXV2aGltaGNlOGNocWRpMzBsMA/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rayo-vallecano-377" group-title="Đang phát" , 24-10-2026 19:00 ⚽ Rayo Vallecano vs Elche [LIVE] (TRÚC BẠCH)
@@ -501,7 +499,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMzA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onp
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRzZmoxdG1odGRuZ2JvaXR4b3FlZzR3Nw/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 24-10-2026 21:15 ⚽ Racing Santander vs Espanyol [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmF2NzZkYXlqOTQ0d3d4M3VyZWFnaHlzdQ/index.m3u8
-#EXTINF:-1 group-title="Source 3" , 24-10-2026 22:40 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ)
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Đang phát" , 24-10-2026 23:00 ⚽ Napoli vs AS Roma [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Đang phát" , 24-10-2026 23:30 ⚽ Valencia vs Villarreal [LIVE] (NEM NƯỚNG )
