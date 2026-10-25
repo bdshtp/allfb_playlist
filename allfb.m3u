@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnz3w3qvy.png" group-title="Gavang",25/10 04:40 | New York Red Bulls vs Inter Miami CF
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgwodeq82.png" group-title="Gavang",25/10 06:30 | Atlanta Utd vs Chicago Fire
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/zp5rzghgwodeq82.png" group-title="Gavang",25/10 06:40 | Atlanta Utd vs Chicago Fire
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghn24p8m0v.png" group-title="Gavang",25/10 09:00 | Wellington Phoenix vs Central Coast Mariners
 https://live2.zktsva.app/live/306290.m3u8
@@ -53,22 +51,18 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6jgl4qg8.png" group-title="Gavang",25/10 23:30 | SC Freiburg vs FC Bayern Munich
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80" group-title="Football",2026-10-25 04:40 | New York Red Bulls vs Inter Miami | BLV 
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80" group-title="Football",2026-10-25 06:40 | Atlanta Utd vs CLB Chicago Fire | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.dyrur1.com/live/13375497_bc01c5ed16d9802a5e790339e32a03ef_autoChange.m3u8?auth_key=1792896685-0-0-f4a8dfbf7d6a37d287540792c57a4408
+https://live4.dyrur1.com/live/13375498_ab4cedd94f0cfd5a8bde840223d2320d_autoChange.m3u8?auth_key=1792900020-0-0-afcbe3fba58529f77ced6e27e181f5f7
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/e52f6ac53681289c91703501a960cb3c.png!w80" group-title="Football",2026-10-25 05:00 | Charlotte Hornets vs Miami Heat | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.dyrur1.com/live/14315709_be2d2a57c7ea90208ac4d8fe2969abed_autoChange.m3u8?auth_key=1792896686-0-0-0c99fa85258d9cdf0bed4c6f95535099
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80" group-title="Football",2026-10-25 06:30 | Atlanta Utd vs CLB Chicago Fire | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/14315709_be2d2a57c7ea90208ac4d8fe2969abed_autoChange.m3u8?auth_key=1792900020-0-0-76687d4bf9e6a02805f4eea3334265a5
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Football",2026-10-25 06:30 | Philadelphia 76ers vs Milwaukee Bucks | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live3.dyrur1.com/live/14315711_1049149500335ca30ae04489d4f54d3c_autoChange.m3u8?auth_key=1792900019-0-0-694110624d0e353e63e3c9c5dc54dcd2
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80" group-title="Football",2026-10-25 07:00 | Dallas Mavericks vs San Antonio Spurs | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
