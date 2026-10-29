@@ -1,30 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4655pr8k.png" group-title="Gavang",29/10 21:00 | Krylya Sovetov vs Dynamo Makhachkala
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx5y3nqo9.png" group-title="Gavang",29/10 21:00 | Modern Sport FC vs Al Ahly FC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe1o5dr6o.png" group-title="Gavang",29/10 21:35 | Al Khaleej vs Al Hazem
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh52ll8ql0.png" group-title="Gavang",29/10 23:00 | Volos NPS vs Atromitos Athens
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghey08lr6o.png" group-title="Gavang",29/10 23:00 | Inter Turku vs HJK Helsinki
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9033wm7v.png" group-title="Gavang",29/10 23:30 | CSKA Moscow vs Lokomotiv Moscow
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlwyg7moe.png" group-title="Gavang",30/10 00:00 | Pyramids FC vs Wadi Degla SC
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj4vwjm2w.png" group-title="Gavang",30/10 00:00 | KuPs vs Gnistan Helsinki
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9p6ddm7v.png" group-title="Gavang",30/10 00:30 | Frosinone vs Lecce
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6d36m2w.png" group-title="Gavang",30/10 01:00 | Al Nassr vs Al Kholood
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgp2z4r51.png" group-title="Gavang",30/10 01:45 | Sporting Braga vs FC Famalicao
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3k6gq1z.png" group-title="Gavang",30/10 02:45 | Fiorentina vs Atalanta
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09h54x6vrz8.png" group-title="Gavang",30/10 02:45 | Everton vs Newcastle United
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl3k6gq1z.png" group-title="Gavang",30/10 02:45 | Fiorentina vs Atalanta
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7v88nq1z.png" group-title="Gavang",30/10 03:00 | Sporting Hortaleza vs Sevilla FC
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv0ll1ql0.png" group-title="Gavang",30/10 03:00 | AE Prat vs Athletic Club
@@ -139,86 +121,26 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1lxjjq0j.png" group-title="Gavang",31/10 23:00 | Fenerbahce vs Goztepe
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80" group-title="Football",2026-10-29 21:00 | CLB Krylya Sovetov vs FK Makhachkala | BLV 
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="Football",2026-10-30 02:45 | Everton vs Newcastle United | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.hztx2020.com/live/72343996_b263394c6ea234a6bcd7315c88cd84d0_autoChange.m3u8?auth_key=1793301652-0-0-55127396f153f8e9f13e41af6f6e0176
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/53f4bc55c48cd39be78fa4fa69645f31.png!w80" group-title="Football",2026-10-29 21:00 | FC tương lai vs Al Ahly | BLV 
+https://live.hztx2020.com/live/14469328_9f5039743033dfb39b25e86845b25fa5_autoChange.m3u8?auth_key=1793319841-0-0-31ad48e34b906e3a0791200ebcbf3671
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="Football",2026-10-30 01:45 | Braga vs Famalicao | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.hztx2020.com/live/14278097_ba39092a950dbbaff8899c33f3ccc423_autoChange.m3u8?auth_key=1793301652-0-0-ed745be276221b8a864fac0fa84d4daa
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png!w80" group-title="Football",2026-10-29 21:35 | Al Khaleej vs CLB Al Hazm | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.hztx2020.com/live/14220178_7c76d811c0a5083bcb113dc922382206_autoChange.m3u8?auth_key=1793301652-0-0-400ec6ab62ff20108a2e757901babb69
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/7d158aa590b16ee3d8e23afa6f12d417.png!w80" group-title="Football",2026-10-29 22:00 | Nữ Trung QuốcU17 vs Pháp U17 Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live4.hztx2020.com/live/9gklzi503w2am7x_8b7aa254828b583cfee150e44f3c3c68_autoChange.m3u8?auth_key=1793301651-0-0-840c44ecd83b2fea5bd1468a924315fc
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/5427773b290ec40281efd5e751191a67.png!w80" group-title="Football",2026-10-29 23:00 | Volos NFC vs Atromitos | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80" group-title="Football",2026-10-29 23:00 | Inter Turku vs HJK | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/1eae81e51945df5660e24dc6f0ea353c.png!w80" group-title="Football",2026-10-29 23:30 | CSKA Moscow vs Lokomotiv | BLV BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/18812304.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="Football",2026-10-29 23:30 | Atlanta Dream vs Golden State Valkyries | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80" group-title="Football",2026-10-30 00:00 | CLB KuPs vs CLB Gnistan Helsinki | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/0c750c05518db78eeabc97fb11574fed.png!w80" group-title="Football",2026-10-30 00:00 | Pyramids vs CLB Wadi Degla | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" group-title="Football",2026-10-30 00:30 | Frosinone vs U.S. Lecce | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80" group-title="Football",2026-10-30 01:00 | Al-Nassr vs Al Kholood | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80" group-title="Football",2026-10-30 01:00 | Al-Riyadh vs Al Qadisiya | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/9e90fc4ebbb554f597910a96cf792495.png!w80" group-title="Football",2026-10-30 01:00 | Atletico Calatayud vs Osasuna | BLV BLV FANTA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/3368c6d0adf66a2501032a2a77013cd1.png!w80" group-title="Football",2026-10-30 01:00 | Lebrijana vs Getafe CF | BLV BLV REDBULL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/49572724.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="Football",2026-10-30 01:45 | Braga vs Famalicao | BLV BLV MONSTER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/75915087.m3u8
+https://live1.hztx2020.com/live/14200214_a203b908ea5f7eb594e085940df8e9e2_autoChange.m3u8?auth_key=1793319843-0-0-d87cb37b8dd82d4c2988033d6549d194
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="Football",2026-10-30 02:45 | ACF Fiorentina vs Atalanta B.C. | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="Football",2026-10-30 02:45 | Everton vs Câu lạc bộ bóng đá Newcastle United | BLV BLV SODA
+https://live.hztx2020.com/live/13978117_11d541b99864473b119d4cc5f7362504_autoChange.m3u8?auth_key=1793319841-0-0-e615489f3015cf833bafa5c86d11e856
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/c862eaf286d184ff7b44b07e09bbe8ec.png!w80" group-title="Football",2026-10-30 03:00 | Sporting Hortaleza vs Sevilla FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/c862eaf286d184ff7b44b07e09bbe8ec.png!w80" group-title="Football",2026-10-30 03:00 | Sporting Hortaleza vs Sevilla FC | BLV BLV HỔ VẰN
+https://live3.hztx2020.com/live/14567550_014d8d094ba9d8443fc8623fc80f920b_autoChange.m3u8?auth_key=1793319841-0-0-df621c32724686e41da23d4d42d76beb
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/57eb1ed137a3bb206e6475a3a033f03d.png!w80" group-title="Football",2026-10-30 03:00 | Prat vs Athletic Bilbao | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/07428422.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/57eb1ed137a3bb206e6475a3a033f03d.png!w80" group-title="Football",2026-10-30 03:00 | Prat vs Athletic Bilbao | BLV BLV C2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/08552895.m3u8
+https://live.hztx2020.com/live/14567549_9630db762eccf1b604a41ad0fd383794_autoChange.m3u8?auth_key=1793319841-0-0-1384d19b1bf7b2a67a81ce54f55e7e6f
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80" group-title="Football",2026-10-30 03:45 | Benfica vs Gil Vicente | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -239,18 +161,18 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80" group-title="Football",2026-10-30 08:30 | Atletico Nacional vs CLB Santa Fe | BLV BLV ROCKSTAR
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80" group-title="Football",2026-10-30 08:30 | Atletico Nacional vs CLB Santa Fe | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/82054853.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80" group-title="Football",2026-10-30 09:00 | Portland Trail Blazers vs Memphis Grizzlies | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="Football",2026-10-30 09:00 | Alajuelense vs Motagua | BLV BLV GIÀ LÀNG
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="Football",2026-10-30 09:00 | Alajuelense vs Motagua | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/14830711.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="Football",2026-10-30 13:30 | New Zealand Breakers vs Adelaide 36ers | BLV BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -323,26 +245,26 @@ https://live05.miekgo.app/live/75748097.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/33982309.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="Football",2026-10-30 21:00 | North East Utd vs Bengaluru | BLV BLV SAMURAI
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="Football",2026-10-30 21:00 | North East Utd vs Bengaluru | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/07808742.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/7e9f03a408f176192cac0fbe6185f2d6.png!w80" group-title="Football",2026-10-30 21:15 | Al-Shahaniya vs Al Ahli Doha | BLV BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/14215ad91a839ba1b4f216001eb02d91.png!w80" group-title="Football",2026-10-30 21:30 | CLB Turan Tovuz vs Sabah FC | BLV BLV REDBULL
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/14215ad91a839ba1b4f216001eb02d91.png!w80" group-title="Football",2026-10-30 21:30 | CLB Turan Tovuz vs Sabah FC | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/49572724.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png!w80" group-title="Football",2026-10-30 21:50 | Al Draih vs NEOM Sports Club | BLV BLV SODA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80" group-title="Football",2026-10-30 22:00 | Asyut Petroleum vs El Gouna | BLV BLV MOUNTAIN DEW
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80" group-title="Football",2026-10-30 22:00 | Asyut Petroleum vs El Gouna | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/87547578.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80" group-title="Football",2026-10-30 22:00 | CSKA 1948 Sofia vs Spartak Varna | BLV BLV TEPPY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -539,38 +461,134 @@ https://live05.miekgo.app/live/89756030.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" group-title="Đang phát" , 30-10-2026 00:00 ⚽ KuPS vs Gnistan [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4NzgyMjU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNwYXI3cGdjenBjeTJjNHd4dXlmeHdiMw/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/frosinone-4070" group-title="Đang phát" , 30-10-2026 00:30 ⚽ Frosinone vs Lecce [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MzY6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmNydWtidjMxZmJwcXR5NHlxbXQ3OHQ1bw/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/frosinone-4070" group-title="Đang phát" , 30-10-2026 00:30 ⚽ Frosinone vs Lecce [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmJncnFnMTQ2dDVlZWY5aGE2cmUzeXJ4OA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-riyadh-17705" group-title="Đang phát" , 30-10-2026 01:00 ⚽ Al Riyadh vs Al-Qadsiah [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3Njg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmp5d3hqbHdpMDh4N2dnMDZtYThpN2RucA/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Đang phát" , 30-10-2026 01:00 ⚽ Al Nassr vs Al Kholood [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3Njk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmhxbDJ5NzEwMmo5Zzg3NHRvZTg3Mjd0cQ/index.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80" group-title="Football",2026-10-31 18:00 | CLB XM Hai Phong vs Bình Phước | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80" group-title="Football",2026-10-31 18:00 | Sông Lam Nghệ An vs Cong An Ha Noi FC | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/18812304.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80" group-title="Football",2026-10-31 18:00 | Nam Định vs Thể Công - Viettel | BLV BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/6544eff3f60d98faf65649c8bf1c81eb.png!w80" group-title="Football",2026-10-31 19:00 | CLB Kaiserslautern vs Hertha BSC | BLV BLV Cozy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/87379114.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80" group-title="Football",2026-10-31 19:00 | VfL Wolfsburg vs VfL Osnabruck | BLV BLV SODA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/02456966.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="Football",2026-10-31 19:30 | Chelsea vs Manchester United | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/08552895.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/13e2038bd23a38ce32a3eb259c8bf7d8.png!w80" group-title="Football",2026-10-31 20:00 | CLB Levante vs Atlético Madrid | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/78905744.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/c31f023a2cc8adbcc3e24344d81b9609.png!w80" group-title="Football",2026-10-31 21:00 | Bologna F.C. 1909 vs A.C. Monza | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80" group-title="Football",2026-10-31 21:30 | SV Werder Bremen vs TSG 1899 Hoffenheim | BLV BLV SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80" group-title="Football",2026-10-31 21:30 | FC Augsburg vs SC Freiburg | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80" group-title="Football",2026-10-31 21:30 | Borussia Mönchengladbach vs Paderborn | BLV BLV AQUA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/18812304.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80" group-title="Football",2026-10-31 21:30 | FC Schalke 04 vs RB Leipzig | BLV BLV SPRITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/75748097.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="Football",2026-10-31 21:30 | Bayer 04 Leverkusen vs VfB Stuttgart | BLV BLV MONSTER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/75915087.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="Football",2026-10-31 22:00 | Câu lạc bộ bóng đá Bournemouth vs CLB Leeds United | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/78905744.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/262691204102d2200797f0ac34efb316.png!w80" group-title="Football",2026-10-31 22:00 | CLB Hull City vs CLB Ipswich Town | BLV BLV HỔ VẰN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/07428422.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sporting-braga-884" group-title="Đang phát" , 30-10-2026 01:45 ⚽ Sporting Braga vs Famalicão [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3NDQyNjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmtrYWJuODNjbThvd293YTh2ZDJ0NjU5eg/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Đang phát" , 30-10-2026 02:45 ⚽ Fiorentina vs Atalanta [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmdoZ2I0bXJ2YnQ4YzV2ZW5uNGxocTF6dA/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/everton-13" group-title="Đang phát" , 30-10-2026 02:45 ⚽ Everton vs Newcastle United [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk4ODQwNjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpwdWM5cXljdnVvZWNsOHFwam0wMGZ4dw/index.m3u8
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 04:35 ⚽ Al Khaleej Club vs Al Hazem (NGƯỜI RÂM)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 05:30 ⚽ Al Quwa Al Jawiya vs Al-Mina'a SC (NGƯỜI TRÂU)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 06:00 ⚽ Inter Turku vs HJK Helsinki (NGƯỜI DÊ)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 06:30 ⚽ CSKA Moscow vs Lokomotiv Moscow (NGƯỜI THỎ)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 07:00 ⚽ KuPs vs Gnistan Helsinki (NGƯỜI NHỆN)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 07:00 ⚽ Pyramids FC vs Wadi Degla SC (NGƯỜI CÁO)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 07:30 ⚽ Frosinone vs Lecce (NGƯỜI CAT)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 07:30 ⚽ Hammarby vs IK Sirius FK (NGƯỜI PHÁO)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 08:00 ⚽ Al Nassr FC vs Al Kholood (NGƯỜI RÂM)
-#EXTINF:-1 group-title="Source 3" , 30-10-2026 08:00 ⚽ Al Riyadh vs Al Qadsiah (NGƯỜI TRÂU)
 #EXTINF:-1 group-title="Source 3" , 30-10-2026 09:45 ⚽ Everton vs Newcastle United (NGƯỜI CAT)
 #EXTINF:-1 group-title="Source 3" , 30-10-2026 09:45 ⚽ Fiorentina vs Atalanta (NGƯỜI DÊ)
 #EXTINF:-1 group-title="Source 3" , 30-10-2026 12:30 ⚽ Atlético Mineiro vs Cruzeiro (NGƯỜI SÓI)
 #EXTINF:-1 group-title="Source 3" , 30-10-2026 13:00 ⚽ Vasco de Gama vs Flamengo (NGƯỜI NẶN)
 #EXTINF:-1 group-title="Source 3" , 30-10-2026 14:30 ⚽ Gremio vs Atletico Paranaense (NGƯỜI SÓI)
 #EXTINF:-1 group-title="Source 3" , 30-10-2026 15:30 ⚽ Atletico Nacional Medellin vs Independiente Santa Fe (NGƯỜI NẶN)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Đang phát" , 30-10-2026 16:00 ⚽ Brisbane Roar vs Auckland [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3NTg4MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmVuMXNkZXBkNHU3YXN0djIzem5idGJ6bw/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Đang phát" , 30-10-2026 16:00 ⚽ Brisbane Roar vs Auckland [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3NTg4MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1wOTV4Mm1mdjE5NmNuOHUzeXd2b2sweA/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Đang phát" , 30-10-2026 17:00 ⚽ Đông Á Thanh Hoá vs Hồng Lĩnh Hà Tĩnh [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnowNjg4OXVjcXpib2s4bGZxNDExamtjMQ/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Đang phát" , 30-10-2026 18:00 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdzd3VmbnhidXc4Y2pwOWZha2lneTl0bw/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Đang phát" , 30-10-2026 18:00 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MzE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmpjOTRxcWlwN2g3NHN6Zm11bTdvbWpldA/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persebaya-surabaya-18240" group-title="Đang phát" , 30-10-2026 19:00 ⚽ Persebaya Surabaya vs Persijap [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4MTM1NDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmE0Z2U2aGNnaWw5NGRkZ2toa2RpdjFlNQ/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ha-noi-6334" group-title="Đang phát" , 30-10-2026 19:15 ⚽ Hà Nội vs Ninh Bình [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRlOHllOHhibWxlZm9zNHF3bjNlOTZraw/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Đang phát" , 30-10-2026 19:30 ⚽ Abha vs Al Ittihad [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnEybnF2ajBzMGV2amxqdTJ5MGRzNTB6aA/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Đang phát" , 30-10-2026 19:30 ⚽ Abha vs Al Ittihad [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omt6YWc5aHN5ZHhleXR2bHJ1b2dsOTJzZA/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-draih-17733" group-title="Đang phát" , 30-10-2026 21:50 ⚽ Al Draih vs NEOM SC [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NjU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh0NHRxbGR0dTN6MWQ0aGJsbWxpZHJyOA/index.m3u8
+#EXTINF:-1 group-title="Source 3" , 30-10-2026 22:00 ⚽ DPMM FC vs Negeri Sembilan (NGƯỜI BẠC)
+#EXTINF:-1 group-title="Source 3" , 30-10-2026 22:30 ⚽ Java United vs Bhayangkara Presisi (NGƯỜI NHỆN)
+#EXTINF:-1 group-title="Source 3" , 30-10-2026 23:00 ⚽ Brisbane Roar vs Auckland FC (NGƯỜI THỎ)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/konyaspor-2632" group-title="Đang phát" , 31-10-2026 00:00 ⚽ Konyaspor vs Galatasaray [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk3NDY1Njg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnMycW9nZ21pcWVjOGFqMTQ4NW45cDFpeg/index.m3u8
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 00:00 ⚽ CLB Thanh Hoa vs Hong Linh Ha Tinh (NGƯỜI BẠC)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/energie-cottbus-3322" group-title="Đang phát" , 31-10-2026 00:30 ⚽ Energie Cottbus vs VfL Bochum 1848 [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MzU0MTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZtZnF3YXYxcDVtZ3dtMGFzZjloMDN0Ng/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/dsc-arminia-bielefeld-2927" group-title="Đang phát" , 31-10-2026 00:30 ⚽ DSC Arminia Bielefeld vs Eintracht Braunschweig [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MzU0MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnJ1cHp5OW9wZWhoMzhmaGF6bDdhZ3F6dA/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/le-havre-1055" group-title="Đang phát" , 31-10-2026 01:00 ⚽ Le Havre vs Paris Saint-Germain [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NjU6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmdhMmlmOGRjOXpjazVhZTdqNWl4bzM1Ng/index.m3u8
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 01:00 ⚽ Bac Ninh FC vs Hoang Anh Gia Lai (NGƯỜI THỎ)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 02:00 ⚽ Buriram United vs PT Prachuap FC (NGƯỜI NẶN)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 02:00 ⚽ Persebaya Surabaya vs Persatuan Sepakbola Subang (NGƯỜI NHỆN)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elversberg-3588" group-title="Đang phát" , 31-10-2026 02:30 ⚽ Elversberg vs FSV Mainz 05 [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk3MzUxMjY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnhvMGRidHhiaDE0MmVmcWt1cGQ0c2Rpcw/index.m3u8
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 02:30 ⚽ Abha vs Al Ittihad Club (NGƯỜI CAT)
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Đang phát" , 31-10-2026 03:00 ⚽ Villarreal vs Espanyol [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmU3OTVrb3Q0bzZoMnluNG5zMHJ5ejZsdg/index.m3u8
+#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Đang phát" , 31-10-2026 03:05 ⚽ LOSC Lille vs Lens [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omdjcmg2c293cWR2NHV3c2tjd2x5NXdnYQ/index.m3u8
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 04:00 ⚽ Al Karma vs Duhok SC (NGƯỜI PHÁO)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 04:50 ⚽ Al Diraiyah vs NEOM Sports Club (NGƯỜI RÂM)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 05:00 ⚽ CSKA 1948 Sofia vs Spartak Varna (NGƯỜI CAT)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 06:00 ⚽ Shakhtar Donestk vs Obolon Kyiv (NGƯỜI TRÂU)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 07:00 ⚽ Konyaspor vs Galatasaray (NGƯỜI CÁO)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 08:00 ⚽ OGC Nice vs Stade Rennais FC (NGƯỜI DÊ)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 08:00 ⚽ Havre Athletic Club vs Paris Saint Germain (NGƯỜI RÂM)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 09:30 ⚽ SV Elversberg vs 1. FSV Mainz 05 (NGƯỜI TRÂU)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 10:00 ⚽ Villarreal CF vs Espanyol (NGƯỜI CÁO)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 10:05 ⚽ LOSC Lille vs RC Lens (NGƯỜI DÊ)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 12:00 ⚽ Colo Colo vs Universidad de Concepcion (NGƯỜI SÓI)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 13:00 ⚽ Corinthians vs Mirassol (NGƯỜI NẶN)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 15:00 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN)
+#EXTINF:-1 group-title="Source 3" , 31-10-2026 17:00 ⚽ Puebla vs Pumas U.N.A.M (NGƯỜI NẶN)
 # Generated at 2026-10-07 06:57:21
 
 #EXTINF:-1 group-title="Source 4" tvg-name="Buriram vs Borneo" tvg-logo="https://www.khandai1.link/media/teams/logos/team_7565.jpg" group-title="Bóng đá | ASEAN Club Championship",07/10 19:00 | Buriram vs Borneo | [Pháo Thủ]
