@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgznw4r51.png" group-title="Gavang",02/11 02:45 | Juventus vs Napoli
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/y39mp1h68y2dmoj.png" group-title="Gavang",02/11 02:45 | Marseille vs Toulouse FC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkv1jzrz8.png" group-title="Gavang",02/11 03:00 | Athletic Club vs Real Sociedad
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4wyrn4h61ldzq86.png" group-title="Gavang",02/11 06:00 | Santos Laguna vs Necaxa
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghew002r6o.png" group-title="Gavang",02/11 07:00 | New England Revolution vs Inter Miami CF
@@ -107,42 +101,18 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghl5oknmoe.png" group-title="Gavang",03/11 23:00 | Esteghlal Tehran vs Al-Shamal Sports Club
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" group-title="Football",2026-11-02 02:45 | Juventus F.C. vs S.S.C. Napoli | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.hztx2020.com/live/13978130_70f6f5fb1ca2b7d260592dce39a230b4_autoChange.m3u8?auth_key=1793578209-0-0-f908971e9fb344379ba68d3dbbc5bf4c
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80" group-title="Football",2026-11-02 02:45 | Olympique de Marseille vs Toulouse FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.hztx2020.com/live/13998846_c7b8db9395b59b97922cbf39f5b39f11_autoChange.m3u8?auth_key=1793578209-0-0-ca4b96b4d219ae3309848586b97e8fd3
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80" group-title="Football",2026-11-02 03:00 | Athletic Bilbao vs Real Sociedad | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live1.hztx2020.com/live/14090759_67e9ab78b65ed07f4feb8e5f38c64a7d_autoChange.m3u8?auth_key=1793578209-0-0-b809d94a736e08bc3e334fca7dd3e03b
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="Football",2026-11-02 03:30 | Braga vs Famalicao | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="Football",2026-11-02 03:30 | Orlando Magic vs Boston Celtics | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80" group-title="Football",2026-11-02 03:30 | Vancouver Whitecaps vs Seattle Sounders | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="Football",2026-11-02 05:00 | Indiana Pacers vs Brooklyn Nets | BLV 
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f1b7c49790e05778f194ed436515b240.png!w80" group-title="Football",2026-11-02 07:00 | CLB New England Revolution vs Inter Miami | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/2552214027525015c3545cff636f5e03.png!w80" group-title="Football",2026-11-02 06:00 | Santos Laguna vs Necaxa | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f1b7c49790e05778f194ed436515b240.png!w80" group-title="Football",2026-11-02 07:00 | CLB New England Revolution vs Inter Miami | BLV 
+https://live1.hztx2020.com/live/13999796_943241290d5e3f5d9e2fdd843b137d82_autoChange.m3u8?auth_key=1793590930-0-0-67ca9647ff9b8cba12fb5db01d94e53b
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80" group-title="Football",2026-11-02 05:00 | Indiana Pacers vs Brooklyn Nets | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live2.hztx2020.com/live/14315759_324b77ffe9cc84974f581a1877f93264_autoChange.m3u8?auth_key=1793590929-0-0-100bef1fe2b265ea2716712fbcaf323b
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="Football",2026-11-02 08:00 | Cruz Azul vs Club Leon | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -507,17 +477,10 @@ https://live05.miekgo.app/live/97885009.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/33860426.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Đang phát" , 02-11-2026 00:30 ⚽ Elche vs Valencia [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOncwZ29jbHU1YmtmY3h6Z215MG80ejlrOQ/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Đang phát" , 02-11-2026 02:45 ⚽ Juventus vs Napoli [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJpMXo2OGJmMXh2bWpzNHlxdGd3ZDFvMw/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Đang phát" , 02-11-2026 02:45 ⚽ Olympique Marseille vs Toulouse FC [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN4dWwwajcwOTltNWNweDBsMTJnb3hlNg/index.m3u8
-#EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Đang phát" , 02-11-2026 03:00 ⚽ Athletic Bilbao vs Real Sociedad [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8
-#EXTINF:-1 group-title="Source 3" , 02-11-2026 09:45 ⚽ Juventus vs Napoli (NGƯỜI CAT)
-#EXTINF:-1 group-title="Source 3" , 02-11-2026 09:45 ⚽ Marseille vs Toulouse FC (NGƯỜI CÁO)
-#EXTINF:-1 group-title="Source 3" , 02-11-2026 11:30 ⚽ Nashville FC vs New York Red Bulls (NGƯỜI NẶN)
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/444ccd0f41b3dc4726dbbd26ea3d359c.png!w80" group-title="Football",2026-11-03 23:30 | S. Kostroma vs FK Volna Nizhegorodskaya | BLV BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/08552895.m3u8
 #EXTINF:-1 group-title="Source 3" , 02-11-2026 13:00 ⚽ Santos Laguna vs Necaxa (NGƯỜI SÓI)
 #EXTINF:-1 group-title="Source 3" , 02-11-2026 14:00 ⚽ New England Revolution vs Inter Miami CF (NGƯỜI NẶN)
 #EXTINF:-1 group-title="Source 3" , 02-11-2026 16:45 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI)
