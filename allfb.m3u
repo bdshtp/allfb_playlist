@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4lo5yr8k.png" group-title="Gavang",06/11 07:30 | Cruzeiro - MG vs Bahia - BA
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyh87o9kr1g.png" group-title="Gavang",06/11 08:00 | Cancun FC vs Piratas FC
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hx983eqo9.png" group-title="Gavang",06/11 15:00 | Adelaide United Women vs Wellington Phoenix Women
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh976lwm7v.png" group-title="Gavang",06/11 15:40 | Sydney FC vs Central Coast Mariners
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg2zv6rep.png" group-title="Gavang",06/11 17:00 | Lokomotiv Moscow Youth vs Spartak Moscow Youth
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4gd22r8k.png" group-title="Gavang",06/11 17:00 | Van Hien University vs Huda Hue
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryoh7kydwq1z.png" group-title="Gavang",06/11 17:30 | FC Bengaluru United vs Mohammedan SC
@@ -25,6 +19,8 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv02xxql0.png" group-title="Gavang",06/11 19:45 | Dabba Al-Fujairah vs Al-Hamriyah
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv3j4lql0.png" group-title="Gavang",06/11 20:00 | Shillong Lajong FC vs Chanmari FC
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph41843r8k.png" group-title="Gavang",06/11 21:00 | Qarabag vs Turan Tovuz
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehjyw6dr51.png" group-title="Gavang",06/11 21:00 | FC Goa vs Bengaluru FC
@@ -109,50 +105,102 @@ https://live2.zktsva.app/live/294335.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjy8e0m2w.png" group-title="Gavang",07/11 23:00 | Galatasaray vs Amedspor
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f323884c2481d25aa4b316a43583b733.png!w80" group-title="Football",2026-11-06 05:15 | CLB Gimnasia La Plata vs Belgrano | BLV 
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld4z6moe.png" group-title="Gavang",08/11 00:00 | Parma vs Bologna
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4j681r8k.png" group-title="Gavang",08/11 00:30 | Nottingham Forest vs Manchester City
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dj2ryohl025jq1z.png" group-title="Gavang",08/11 00:30 | CA Osasuna vs Athletic Club
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhn6k68qvy.png" group-title="Gavang",08/11 00:30 | VfB Stuttgart vs SV Werder Bremen
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkdjozrz8.png" group-title="Gavang",08/11 01:00 | AJ Auxerre vs Paris FC
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhywg8yryk.png" group-title="Gavang",08/11 02:45 | AS Roma vs Sassuolo
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6x93r6o.png" group-title="Gavang",08/11 03:00 | Valencia CF vs Real Madrid
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1jvweq0j.png" group-title="Gavang",08/11 03:05 | Paris Saint Germain vs Troyes
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkyj7prz8.png" group-title="Gavang",08/11 03:30 | Sporting CP vs Moreirense
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhgxevyrep.png" group-title="Gavang",08/11 04:00 | Inter Miami CF vs Charlotte FC
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zh5dpgzql0.png" group-title="Gavang",08/11 06:00 | Atlas vs Pachuca
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe6ln2r6o.png" group-title="Gavang",08/11 06:10 | Atletico Nacional Medellin vs Deportivo Pereira
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehg3xn2r51.png" group-title="Gavang",08/11 07:00 | FC Dallas vs Colorado Rapids
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvdnz4md7.png" group-title="Gavang",08/11 08:00 | Toluca vs Rayados de Monterrey
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhyw397ryk.png" group-title="Gavang",08/11 10:00 | Pumas U.N.A.M. vs Club America
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phj6k72m2w.png" group-title="Gavang",08/11 11:00 | Macarthur FC vs Brisbane Roar
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/jw2r09hkd2k4rz8.png" group-title="Gavang",08/11 12:00 | Machida Zelvia vs Sanfrecce Hiroshima
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhk045jmd7.png" group-title="Gavang",08/11 12:00 | FC Seoul vs Ulsan HD FC
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/x7lm7phjdzzwm2w.png" group-title="Gavang",08/11 13:00 | Gamba Osaka vs Cerezo Osaka
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghe14e1r6o.png" group-title="Gavang",08/11 13:00 | Adelaide United vs Melbourne Victory
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheew27r6o.png" group-title="Gavang",08/11 14:30 | Beijing Guoan vs Chongqing Tonglianglong
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/n54qllhnnzkgqvy.png" group-title="Gavang",08/11 14:30 | Dalian Yingbo vs Tianjin Jinmen Tiger
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh660g5qg8.png" group-title="Gavang",08/11 14:30 | Shandong Taishan vs Chengdu Rongcheng
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8ghk42jvr6o.png" group-title="Gavang",08/11 14:30 | Gangwon FC vs Jeonbuk Hyundai Motors
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/965mkyhk9yy9r1g.png" group-title="Gavang",08/11 15:00 | JEF United Ichihara Chiba vs Mito Hollyhock
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/2y8m4zhv3xx6ql0.png" group-title="Gavang",08/11 16:30 | Maldives vs Pakistan
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/1l4rjnh9p3kzm7v.png" group-title="Gavang",08/11 18:15 | SC Heerenveen vs Feyenoord
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghld4g6moe.png" group-title="Gavang",08/11 18:30 | Napoli vs Lazio
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/pxwrxlhydendryk.png" group-title="Gavang",08/11 19:15 | The Cong-Viettel vs CLB Thanh Hoa
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/dn1m1ghlz1o5moe.png" group-title="Gavang",08/11 20:00 | Elche CF vs Real Betis
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6z311qg8.png" group-title="Gavang",08/11 21:00 | Genoa vs AC Milan
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/vjxm8gheo410r6o.png" group-title="Gavang",08/11 21:00 | Monza vs Atalanta
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/6ypq3nhvdw20md7.png" group-title="Gavang",08/11 21:00 | Stade Rennais FC vs LOSC Lille
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4j6y1r8k.png" group-title="Gavang",08/11 21:00 | Brighton Hove Albion vs Brentford
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1jo47q0j.png" group-title="Gavang",08/11 21:00 | Crystal Palace vs Liverpool
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/23xmvkh6zj09qg8.png" group-title="Gavang",08/11 21:00 | Ipswich Town vs Bournemouth AFC
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l7oqdehgzk3vr51.png" group-title="Gavang",08/11 21:00 | Sunderland vs Chelsea
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/k82rekhg484wrep.png" group-title="Gavang",08/11 21:30 | FC Köln vs Bayer 04 Leverkusen
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/8yomo4h1oz90q0j.png" group-title="Gavang",08/11 22:15 | Real Sociedad vs Rayo Vallecano
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/l5ergph4je9xr8k.png" group-title="Gavang",08/11 23:15 | Angers SCO vs OGC Nice
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/318q66hxdpgdqo9.png" group-title="Gavang",08/11 23:30 | Manchester United vs Aston Villa
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Source 1" tvg-logo="https://bdshtp.github.io/gavang_playlist/logos/gavang/4jwq2ghnj0j6m0v.png" group-title="Gavang",08/11 23:30 | SC Freiburg vs 1. FC Union Berlin
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80" group-title="Football",2026-11-06 10:00 | Alacranes de Durango vs CLB Leones Univ Guadalajara | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.hztx2020.com/live/14650833_2fea965958a1084bae45edbc43663aef_autoChange.m3u8?auth_key=1793935173-0-0-467c76fd1b53346006610af6ac537408
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="Football",2026-11-06 05:30 | Palmeiras vs Remo Belem (PA) | BLV 
+https://live2.hztx2020.com/live/14646132_47fe1cc2e72f3e9f8cd075598fe3d3a1_autoChange.m3u8?auth_key=1793950289-0-0-0b03e46c7baea8a4a7bec8c0e426c3cf
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a507b1509e1f640108395b0580b46976.png!w80" group-title="Football",2026-11-06 09:00 | Herediano vs CLB Deportivo Saprissa | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live3.hztx2020.com/live/13391537_0de6589cdc922e51bfc19db6e8c4c3da_autoChange.m3u8?auth_key=1793935173-0-0-17f7986d8f4c30c6846f83464ba62990
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/1972a91f675413d693c3946315e3f8ac.png!w80" group-title="Football",2026-11-06 06:00 | Necaxa Nữ vs CLB nữ Atlas | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live.hztx2020.com/live/14244141_27537498d74561f56ce21ec49c47d2af_autoChange.m3u8?auth_key=1793935173-0-0-504484b188ff54d077d42ce657ef3047
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80" group-title="Football",2026-11-06 07:30 | CLB Cruzeiro vs Bahia | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/6fe27a17397454cb43b104a6657e90d7.png!w80" group-title="Football",2026-11-06 08:00 | CLB Cancun vs Piratas FC | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/fd3888cfa88e7456e8d6e385d14ef694.png!w80" group-title="Football",2026-11-06 08:06 | Queretaro Nữ vs Toluca Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/a507b1509e1f640108395b0580b46976.png!w80" group-title="Football",2026-11-06 09:00 | Herediano vs CLB Deportivo Saprissa | BLV BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/90865415.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="Football",2026-11-06 09:00 | Phoenix suns vs Orlando Magic | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.hztx2020.com/live/13995928_647f0836d0112e11fa9220c004ad72d3_autoChange.m3u8?auth_key=1793950289-0-0-8efa0c66e03b7ea341b8803fedeff243
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80" group-title="Football",2026-11-06 10:00 | Golden State Warriors vs Miami Heat | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80" group-title="Football",2026-11-06 10:05 | Alacranes de Durango vs CLB Leones Univ Guadalajara | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80" group-title="Football",2026-11-06 10:10 | Santos Laguna Nữ vs Club Tijuana Nữ | BLV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https
+https://live.hztx2020.com/live/14315792_1f2476793ee056b27d50fd373f084e60_autoChange.m3u8?auth_key=1793950290-0-0-1dfe8ce8aba387a8b8cf13d4b77cba6c
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png!w80" group-title="Football",2026-11-06 15:00 | Adelaide Nữ vs Wellington Phoenix Women | BLV BLV PEPSI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -217,10 +265,10 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/7f7d00906d511bcf48f9a600580ff953.png!w80" group-title="Football",2026-11-06 21:00 | Qarabag vs CLB Turan Tovuz | BLV BLV WARRIOR
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/7f7d00906d511bcf48f9a600580ff953.png!w80" group-title="Football",2026-11-06 21:00 | Qarabag vs CLB Turan Tovuz | BLV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/97885009.m3u8
+https
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/00bb4a98ec1224af879bd139519ce3b7.png!w80" group-title="Football",2026-11-06 21:15 | Al Arabi vs Al Ahli Doha | BLV BLV TEPPY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -289,10 +337,6 @@ https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/56998120.m3u8
-#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80" group-title="Football",2026-11-07 02:30 | Castellon vs CLB Eibar | BLV BLV AQUA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://giovang.co/
-https://live05.miekgo.app/live/18812304.m3u8
 #EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80" group-title="Football",2026-11-07 02:30 | Hamburger SV vs Borussia Mönchengladbach | BLV BLV FANTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
@@ -509,7 +553,42 @@ https://live05.miekgo.app/live/02456966.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://giovang.co/
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Source 3" , 06-11-2026 14:30 ⚽ Cruzeiro vs Bahia (NGƯỜI SÓI)
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80" group-title="Football",2026-11-07 22:15 | CLB Espanyol vs Dep. La Coruna | BLV BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/78905744.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80" group-title="Football",2026-11-07 23:00 | Galatasaray vs CLB Amedspor | BLV BLV REVIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/f05792a374a09fe90bc276305f1dc1e1.png!w80" group-title="Football",2026-11-07 23:00 | Goztepe vs Basaksehir | BLV BLV REDBULL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/49572724.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="Football",2026-11-07 23:30 | Krasnodar vs CSKA Moscow | BLV BLV REDBULL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/49572724.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/9fadd87d190982c8082dddf1567e0b9b.png!w80" group-title="Football",2026-11-08 00:00 | CLB Parma vs Bologna F.C. 1909 | BLV BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/54b45ccae7dea1e4b2d74dab279e4620.png!w80" group-title="Football",2026-11-08 00:00 | Luzern vs Young Boys | BLV BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/7a2eadc57b3a330eda4b7189352ce344.png!w80" group-title="Football",2026-11-08 00:00 | Rosenborg vs Câu lạc bộ Start Kristiansand | BLV BLV FANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/de4422160e9ec4e8e9e1f9517ca0e51a.png!w80" group-title="Football",2026-11-08 00:00 | Odense BK vs Viborg | BLV BLV TEPPY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/33860426.m3u8
+#EXTINF:-1 group-title="Source 2" tvg-logo="https://img.cltvap.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="Football",2026-11-08 00:30 | Câu lạc bộ Bóng đá Nottingham Forest vs Câu lạc bộ bóng đá thành phố Manchester  | BLV BLV WARRIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://giovang.co/
+https://live05.miekgo.app/live/97885009.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" group-title="Đang phát" , 06-11-2026 15:40 ⚽ Sydney vs Central Coast Mariners [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk3NTg4MDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm83Z3J2djhpa2xtejhudWt4cXd6eDRhdQ/index.m3u8
 #EXTINF:-1 group-title="Source 3" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/truong-tuoi-ong-nai-128550" group-title="Đang phát" , 06-11-2026 18:00 ⚽ Trường Tươi Đồng Nai vs SHB Đà Nẵng [LIVE] (TÔM CHIÊN)
